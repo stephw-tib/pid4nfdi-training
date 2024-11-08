@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PID4NFDI Cookbook'
+copyright = '2024, PID4NFDI'
+author = 'PID4NFDI'
 
 release = '0.1'
 version = '0.1.0'
