@@ -10,18 +10,20 @@ such as a document, dataset, or resource. Unlike regular URLs,
 which can break or change, PIDs are designed to be stable over time, 
 ensuring consistent access to the associated content.
 
+test to embed a link: <http://pid.services.base4nfdi.de/get-pid/start/>
+template for embedding docs: Check out the :doc:`usage` section for further information
+template for embedding internal link: including
+how to :ref:`installation` the project
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+ <https://world.openfoodfacts.org/>`_
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This cookbook is work in progress.
 
 Contents
 --------
