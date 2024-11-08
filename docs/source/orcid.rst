@@ -9,10 +9,10 @@ Set Up Your ORCID iD documentation on `Vimeo <https://vimeo.com/showcase/4268215
 
 **For Researchers and other contributors** 
  The `ORCID Help Center <https://support.orcid.org/hc/en-us>`_ provides information for contributors on how to manage your ORCID record, e.g. on:
- * `Getting started with your ORCID record <https://support.orcid.org/hc/en-us/sections/360001495333-Getting-started>`_
- * `Update your record <https://support.orcid.org/hc/en-us/categories/360000663114-Updating-your-record>`_
- * `Manage your account <https://support.orcid.org/hc/en-us/categories/360000661693-Managing-your-account>`_
- * `Remove an ORCID record if you have more than one ORCID iD <https://support.orcid.org/hc/en-us/articles/360006896634-I-have-more-than-one-ORCID-iD>`_
+  *  `Getting started with your ORCID record <https://support.orcid.org/hc/en-us/sections/360001495333-Getting-started>`_
+  *  `Update your record <https://support.orcid.org/hc/en-us/categories/360000663114-Updating-your-record>`_
+  *  `Manage your account <https://support.orcid.org/hc/en-us/categories/360000661693-Managing-your-account>`_
+  *  `Remove an ORCID record if you have more than one ORCID iD <https://support.orcid.org/hc/en-us/articles/360006896634-I-have-more-than-one-ORCID-iD>`_
 
 **For Repository Managers**
 → The ORCID Documentation supports repository managers in integrating ORCID into their infrastructure: https://info.orcid.org/documentation/ 
