@@ -1,14 +1,14 @@
 ORCID
 #####
-===
-**How can I set up an ORCID iD?** 
-===
+**How can I get an ORCID iD?** 
+
 Set Up Your ORCID iD documentation on `Vimeo <https://vimeo.com/showcase/4268215>`_ 
 
 **Where can I find important information about ORCID?**
 
-**For Researchers and other contributors** 
- The `ORCID Help Center <https://support.orcid.org/hc/en-us>`_ provides information for contributors on how to manage your ORCID record, e.g. on:
+*For Researchers and other contributors*
+
+The `ORCID Help Center <https://support.orcid.org/hc/en-us>`_ provides information for contributors on how to manage your ORCID record, e.g. on:
   *  `Getting started with your ORCID record <https://support.orcid.org/hc/en-us/sections/360001495333-Getting-started>`_
   *  `Update your record <https://support.orcid.org/hc/en-us/categories/360000663114-Updating-your-record>`_
   *  `Manage your account <https://support.orcid.org/hc/en-us/categories/360000661693-Managing-your-account>`_
