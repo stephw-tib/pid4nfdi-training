@@ -32,6 +32,12 @@ The `ORCID Help Center <https://support.orcid.org/hc/en-us>`_ provides informati
   *  What can I do with my record account? `Manage your account <https://support.orcid.org/hc/en-us/categories/360000661693-Managing-your-account>`_
   *  What can I do if I have more than one ORCID record? `Remove an ORCID record if you have more than one ORCID iD <https://support.orcid.org/hc/en-us/articles/360006896634-I-have-more-than-one-ORCID-iD>`_
 
+**More information for Contributors on Vimeo**
+
+  * What is ORCID? `Video <https://vimeo.com/97150912>`_
+  * Quick tour of ORCID record: `Video <https://vimeo.com/495762735>`_ 
+  * How to fill my record? `Video <https://vimeo.com/236776451>`_ 
+  * Group work entries: `Video <https://vimeo.com/192585567>`_ 
 
 
 ORCID for Repository Managers
@@ -46,6 +52,15 @@ https://info.orcid.org/documentation/
   * How does the ORCID API work? `ORCID API Tech Tutorial on GitHub <https://github.com/ORCID/ORCID-Source/tree/development/orcid-api-web/tutorial>`_
   * What are ORCID’s plans in the near future? `Product Roadmap <https://trello.com/b/CTB1InDi/orcid-product-roadmap>`_
 
+ORCID for Decision Makers
+------------------------
+You are looking for reasons to implement ORCID in your organization's workflows? Look at ORCID's collection of videos on Vimeo:
+
+  * Learn about the benefits of ORCID: `Video <https://vimeo.com/829670955>`_
+  * How to build a trust network around ORCID: `Video <https://vimeo.com/949243297>`_
+  * The role of PIDs in Open Science: `Video <https://vimeo.com/882313843>`_
+  * How can ORCID be integrated in HR systems? `Video <https://vimeo.com/798462045>`_
+
 ORCID for Research Organizations
 --------------------------------
 
@@ -55,6 +70,19 @@ The website of the German ORCID DE consortium provides specific information for 
   * How to become a member of the German ORCID DE consortium? `Mitglied werden <https://www.orcid-de.org/konsortium/mitglied-werden>`_ 
   * Research organizations in Germany that have already implemented ORCID share their experiences here and provide insights into the motivations, challenges and successes of the implementation process: `Best Practices <https://www.orcid-de.org/support/best-practices>`_
   * Find answers on the most urgend questions about ORCID and consortium membership: `FAQs <https://www.orcid-de.org/support/faqs>`_
+
+**More information for member organizations on Vimeo:**
+
+  * Integrating with ORCID: `Video <https://vimeo.com/938629483>`_ 
+  * Using the Member Portal: `Video <https://vimeo.com/915573217>`_ 
+  * How to use the Affiliation Manager: `Video <https://vimeo.com/709087398>`_ 
+  * Learn about Custom Integrations: `Video <https://vimeo.com/969011385>`_ 
+  * Find Plug-in Tutorials for OJS, e.g.set up: `Video <https://vimeo.com/374414746>`_ 
+
+ORCID for Infrastructure Providers
+----------------------------------
+tbd: Use Open Metadata from ORCID: https://vimeo.com/453329357 
+ORCID feat. The Lens: https://vimeo.com/816602093 
 
 Contact ORCID
 -------------
