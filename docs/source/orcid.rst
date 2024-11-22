@@ -30,7 +30,7 @@ FAQs on ORCID and consortium membership: https://www.orcid-de.org/support/faqs
 
 I have ideas and suggestions for improvement to ORCID → ORCID provides various channels for feedback: https://info.orcid.org/give-feedback/ 
 
-.. autosummary::
-   :toctree: generated
 
-   lumache
+.. toctree::
+
+   researcher
