@@ -87,12 +87,12 @@ ORCID for Infrastructure Providers
 
 Contact ORCID
 -------------
-    .. note::
-    ORCID provides various channels for contact and feedback:
+  .. note::
+ORCID provides various channels for contact and feedback:
 
-      * Submit your request via `Contact Form <https://support.orcid.org/hc/en-us/requests/new>`_ and ask your questions in your preferred language
-      * You have questions regarding the German ORCID DE consortium? Please contact the ORCID team at Technische Informationsbibliothek (TIB): `Kontakt <https://www.orcid-de.org/kontakt>`_
-      * I have ideas and suggestions for improvement to ORCID: Give `Feedback <https://info.orcid.org/give-feedback/>`_ to ORCID
+  * Submit your request via `Contact Form <https://support.orcid.org/hc/en-us/requests/new>`_ and ask your questions in your preferred language
+  * You have questions regarding the German ORCID DE consortium? Please contact the ORCID team at Technische Informationsbibliothek (TIB): `Kontakt <https://www.orcid-de.org/kontakt>`_
+  * I have ideas and suggestions for improvement to ORCID: Give `Feedback <https://info.orcid.org/give-feedback/>`_ to ORCID
 
 
 .. toctree::
