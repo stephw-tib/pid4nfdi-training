@@ -49,7 +49,7 @@ https://info.orcid.org/documentation/
 ORCID for Research Organizations
 --------------------------------
 
-The website of the German ORCID DE consortium provides information for research organizations on membership with ORCID (German language only): 
+The website of the German ORCID DE consortium provides specific information for research organizations on membership with ORCID (German language only): 
 
   * What do I need to know about the ORCID DE consortium to get started as a member? `Über das Konsortium <https://www.orcid-de.org/konsortium/ueber-das-konsortium>`_
   * How to become a member of the German ORCID DE consortium? `Mitglied werden <https://www.orcid-de.org/konsortium/mitglied-werden>`_ 
