@@ -87,7 +87,6 @@ ORCID for Infrastructure Providers
 
 Contact ORCID
 -------------
-  .. note::
 ORCID provides various channels for contact and feedback:
 
   * Submit your request via `Contact Form <https://support.orcid.org/hc/en-us/requests/new>`_ and ask your questions in your preferred language
