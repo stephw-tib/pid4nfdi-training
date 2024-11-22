@@ -28,5 +28,6 @@ Contents
 .. toctree::
 
    usage
+   doi
    orcid
    api
