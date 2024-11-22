@@ -33,11 +33,11 @@ The `ORCID Help Center <https://support.orcid.org/hc/en-us>`_ provides informati
   *  What can I do if I have more than one ORCID record? `Remove an ORCID record if you have more than one ORCID iD <https://support.orcid.org/hc/en-us/articles/360006896634-I-have-more-than-one-ORCID-iD>`_
 
 
- **More information for Contributors on Vimeo**
-    * What is ORCID? `Video <https://vimeo.com/97150912>`_
-    * Quick tour of ORCID record: `Video <https://vimeo.com/495762735>`_ 
-    * How to fill my record? `Video <https://vimeo.com/236776451>`_ 
-    * Group work entries: `Video <https://vimeo.com/192585567>`_
+**More information for Contributors on Vimeo**
+   * What is ORCID? `Video <https://vimeo.com/97150912>`_
+   * Quick tour of ORCID record: `Video <https://vimeo.com/495762735>`_ 
+   * How to fill my record? `Video <https://vimeo.com/236776451>`_ 
+   * Group work entries: `Video <https://vimeo.com/192585567>`_
 
 
 ORCID for Repository Managers
