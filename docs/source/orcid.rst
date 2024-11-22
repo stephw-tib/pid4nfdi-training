@@ -34,8 +34,6 @@ The `ORCID Help Center <https://support.orcid.org/hc/en-us>`_ provides informati
 
 **More information for Contributors on Vimeo**
 
-.. code-block:: console
-
   * What is ORCID? `Video <https://vimeo.com/97150912>`_
   * Quick tour of ORCID record: `Video <https://vimeo.com/495762735>`_ 
   * How to fill my record? `Video <https://vimeo.com/236776451>`_ 
@@ -58,8 +56,6 @@ ORCID for Decision Makers
 ------------------------
 You are looking for reasons to implement ORCID in your organization's workflows? Look at ORCID's collection of videos on Vimeo:
 
-.. code-block:: console
-
   * Learn about the benefits of ORCID: `Video <https://vimeo.com/829670955>`_
   * How to build a trust network around ORCID: `Video <https://vimeo.com/949243297>`_
   * The role of PIDs in Open Science: `Video <https://vimeo.com/882313843>`_
@@ -76,8 +72,6 @@ The website of the German ORCID DE consortium provides specific information for 
   * Find answers on the most urgend questions about ORCID and consortium membership: `FAQs <https://www.orcid-de.org/support/faqs>`_
 
 **More information for member organizations on Vimeo:**
-
-.. code-block:: console
 
   * Integrating with ORCID: `Video <https://vimeo.com/938629483>`_ 
   * Using the Member Portal: `Video <https://vimeo.com/915573217>`_ 
