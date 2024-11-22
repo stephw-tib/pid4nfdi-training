@@ -1,34 +1,68 @@
 ORCID
 #####
+
+What is ORCID?
+----------------
+
+The ORCID (Open Researcher and Contributor iD) is an ID for researchers that offers numerous advantages to you and your research institutions:
+
+It simplifies tasks for researchers, such as maintaining their publication lists. Anyone contributing to the scientific research process can use their ORCID iD to uniquely link their publications, research data, and other outputs of the research process (e.g., research software). This ensures that these outputs are visible and reliably connected to their creators.
+
+In addition, the ORCID iD enables researchers to connect with funding bodies, universities, research communities, publishers, and repositories. Automated personal identification helps your institution gather information on researchers' scientific output from external sources, aggregate research information (e.g., in a research information system), and manage publications internally more efficiently.
+
+
+
+ORCID for Researchers and other Contributors
+-----------------------
+
+
+
 **How can I get an ORCID iD?** 
 
-Set Up Your ORCID iD documentation on `Vimeo <https://vimeo.com/showcase/4268215>`_ 
+Find instructions on how to set up your ORCID record and get an ORCID iD in the ORCID documentation on `Vimeo <https://vimeo.com/showcase/4268215>`_.
 
-**Where can I find important information about ORCID?**
 
-*For Researchers and other contributors*
 
-The `ORCID Help Center <https://support.orcid.org/hc/en-us>`_ provides information for contributors on how to manage your ORCID record, e.g. on:
-  *  `Getting started with your ORCID record <https://support.orcid.org/hc/en-us/sections/360001495333-Getting-started>`_
-  *  `Update your record <https://support.orcid.org/hc/en-us/categories/360000663114-Updating-your-record>`_
-  *  `Manage your account <https://support.orcid.org/hc/en-us/categories/360000661693-Managing-your-account>`_
-  *  `Remove an ORCID record if you have more than one ORCID iD <https://support.orcid.org/hc/en-us/articles/360006896634-I-have-more-than-one-ORCID-iD>`_
+**Where can I find essential information about ORCID?**
 
-**For Repository Managers**
-→ The ORCID Documentation supports repository managers in integrating ORCID into their infrastructure: https://info.orcid.org/documentation/ 
-Integration Guide: https://info.orcid.org/documentation/integration-guide/ 
-Overview and Login to ORCID Member Portal: https://info.orcid.org/documentation/member-portal/ 
-Which API types does ORCID provide? https://info.orcid.org/documentation/features/ 
-ORCID API Tech Tutorial on GitHub: https://github.com/ORCID/ORCID-Source/tree/development/orcid-api-web/tutorial 
-What are ORCID’s plans in the near future? Find out more with ORCID’s Product Roadmap: https://trello.com/b/CTB1InDi/orcid-product-roadmap 
+The `ORCID Help Center <https://support.orcid.org/hc/en-us>`_ provides information for contributors on how to manage your ORCID record, e.g.:
 
-**For Research Organizations**
-→ The website of the German ORCID consortium provides information for research organizations on membership with ORCID (German language only): https://www.orcid-de.org/konsortium/ueber-das-konsortium 
-How to become a member of the German ORCID consortium: https://www.orcid-de.org/konsortium/mitglied-werden 
-Best Practices: Research organizations in Germany that have already implemented ORCID share their experiences here and provide insights into the motivations, challenges and successes of the implementation process: https://www.orcid-de.org/support/best-practices 
-FAQs on ORCID and consortium membership: https://www.orcid-de.org/support/faqs 
+  *  Find more information on how `Getting started with your ORCID record <https://support.orcid.org/hc/en-us/sections/360001495333-Getting-started>`_
+  *  How can I submit changes to my ORCID record? `Update your record <https://support.orcid.org/hc/en-us/categories/360000663114-Updating-your-record>`_
+  *  What can I do with my record account? `Manage your account <https://support.orcid.org/hc/en-us/categories/360000661693-Managing-your-account>`_
+  *  What can I do if I have more than one ORCID record? `Remove an ORCID record if you have more than one ORCID iD <https://support.orcid.org/hc/en-us/articles/360006896634-I-have-more-than-one-ORCID-iD>`_
 
-I have ideas and suggestions for improvement to ORCID → ORCID provides various channels for feedback: https://info.orcid.org/give-feedback/ 
+
+
+ORCID for Repository Managers
+-----------------------------
+
+The ORCID Documentation supports repository managers in integrating ORCID into their infrastructure: 
+https://info.orcid.org/documentation/ 
+
+  * How to integrate ORCID in your repository? Find more information in the `Integration Guide <https://info.orcid.org/documentation/integration-guide/>`_
+  * Overview and Login to `ORCID Member Portal <https://info.orcid.org/documentation/member-portal/>`_
+  * Which API types does ORCID provide? `Features <https://info.orcid.org/documentation/features/>`_
+  * How does the ORCID API work? `ORCID API Tech Tutorial on GitHub <https://github.com/ORCID/ORCID-Source/tree/development/orcid-api-web/tutorial>`_
+  * What are ORCID’s plans in the near future? `Product Roadmap <https://trello.com/b/CTB1InDi/orcid-product-roadmap>`_
+
+ORCID for Research Organizations
+--------------------------------
+
+The website of the German ORCID DE consortium provides information for research organizations on membership with ORCID (German language only): 
+
+  * What do I need to know about the ORCID DE consortium to get started as a member? `Über das Konsortium <https://www.orcid-de.org/konsortium/ueber-das-konsortium>`_
+  * How to become a member of the German ORCID DE consortium? `Mitglied werden <https://www.orcid-de.org/konsortium/mitglied-werden>`_ 
+  * Research organizations in Germany that have already implemented ORCID share their experiences here and provide insights into the motivations, challenges and successes of the implementation process: `Best Practices <https://www.orcid-de.org/support/best-practices>`_
+  * Find answers on the most urgend questions about ORCID and consortium membership: `FAQs <https://www.orcid-de.org/support/faqs>`_
+
+Contact ORCID
+-------------
+ORCID provides various channels for contact and feedback:
+
+  * Submit your request via `Contact Form <https://support.orcid.org/hc/en-us/requests/new>`_ and ask your questions in your preferred language
+  * You have questions regarding the German ORCID DE consortium? Please contact the ORCID team at Technische Informationsbibliothek (TIB): `Kontakt <https://www.orcid-de.org/kontakt>`_
+  * I have ideas and suggestions for improvement to ORCID: Give `Feedback <https://info.orcid.org/give-feedback/>`_ to ORCID
 
 
 .. toctree::
