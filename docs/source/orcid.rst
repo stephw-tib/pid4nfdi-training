@@ -32,6 +32,8 @@ The `ORCID Help Center <https://support.orcid.org/hc/en-us>`_ provides informati
   *  What can I do with my record account? `Manage your account <https://support.orcid.org/hc/en-us/categories/360000661693-Managing-your-account>`_
   *  What can I do if I have more than one ORCID record? `Remove an ORCID record if you have more than one ORCID iD <https://support.orcid.org/hc/en-us/articles/360006896634-I-have-more-than-one-ORCID-iD>`_
 
+.. container:: custom
+
 **More information for Contributors on Vimeo**
 
   * What is ORCID? `Video <https://vimeo.com/97150912>`_
