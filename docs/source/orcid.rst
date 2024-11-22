@@ -81,8 +81,9 @@ The website of the German ORCID DE consortium provides specific information for 
 
 ORCID for Infrastructure Providers
 ----------------------------------
-tbd: Use Open Metadata from ORCID: https://vimeo.com/453329357 
-ORCID feat. The Lens: https://vimeo.com/816602093 
+  * How to make use of the public metadata file: `Video <https://vimeo.com/453329357>`_
+  * Learn more about ORCID's interoperability with other scientific services, e.g. The Lens: `Video <https://vimeo.com/816602093>`_
+
 
 Contact ORCID
 -------------
