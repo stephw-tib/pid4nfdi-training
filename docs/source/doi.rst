@@ -16,7 +16,7 @@ DOIs for Researchers and other Contributors
 **How can I get a DOI for my publication?**
 
 
-DOIs are not provided to researchers directly. DOIs for research resources such as publications, datasets, software and other entities will be e.g. registered by a repository provider such as your university library repository, a generic or discipline-specific data repository. 
+DOIs are not provided to researchers directly. DOIs for research resources such as publications, datasets, software and other entities will be e.g. registered by a repository provider such as your university library repository, a generic or discipline-specific data repository or the journal you are publishing with.
 
 DOIs for Repositories
 ---------------------
