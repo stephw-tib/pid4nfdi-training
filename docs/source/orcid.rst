@@ -64,12 +64,13 @@ You are looking for reasons to implement ORCID in your organization's workflows?
 ORCID for Research Organizations
 --------------------------------
 
-The website of the German ORCID DE consortium provides specific information for research organizations on membership with ORCID (German language only): 
+.. note::
+  The website of the German ORCID DE consortium provides specific information for research organizations on membership with ORCID in **German language**: 
 
-  * What do I need to know about the ORCID DE consortium to get started as a member? `Über das Konsortium <https://www.orcid-de.org/konsortium/ueber-das-konsortium>`_
-  * How to become a member of the German ORCID DE consortium? `Mitglied werden <https://www.orcid-de.org/konsortium/mitglied-werden>`_ 
-  * Research organizations in Germany that have already implemented ORCID share their experiences here and provide insights into the motivations, challenges and successes of the implementation process: `Best Practices <https://www.orcid-de.org/support/best-practices>`_
-  * Find answers on the most urgend questions about ORCID and consortium membership: `FAQs <https://www.orcid-de.org/support/faqs>`_
+    * What do I need to know about the ORCID DE consortium to get started as a member? `Über das Konsortium <https://www.orcid-de.org/konsortium/ueber-das-konsortium>`_
+    * How to become a member of the German ORCID DE consortium? `Mitglied werden <https://www.orcid-de.org/konsortium/mitglied-werden>`_ 
+    * Research organizations in Germany that have already implemented ORCID share their experiences here and provide insights into the motivations, challenges and successes of the implementation process: `Best Practices <https://www.orcid-de.org/support/best-practices>`_
+    * Find answers on the most urgend questions about ORCID and consortium membership: `FAQs <https://www.orcid-de.org/support/faqs>`_
 
 **More information for member organizations on Vimeo:**
 
@@ -87,13 +88,11 @@ ORCID for Infrastructure Providers
 
 Contact ORCID
 -------------
-.. note::
+ORCID provides various channels for contact and feedback:
 
-  ORCID provides various channels for contact and feedback:
-
-    * Submit your request via `Contact Form <https://support.orcid.org/hc/en-us/requests/new>`_ and ask your questions in your preferred language
-    * You have questions regarding the German ORCID DE consortium? Please contact the ORCID team at Technische Informationsbibliothek (TIB): `Kontakt <https://www.orcid-de.org/kontakt>`_
-    * I have ideas and suggestions for improvement to ORCID: Give `Feedback <https://info.orcid.org/give-feedback/>`_ to ORCID
+  * Submit your request via `Contact Form <https://support.orcid.org/hc/en-us/requests/new>`_ and ask your questions in your preferred language
+  * You have questions regarding the German ORCID DE consortium? Please contact the ORCID team at Technische Informationsbibliothek (TIB): `Kontakt <https://www.orcid-de.org/kontakt>`_
+  * I have ideas and suggestions for improvement to ORCID: Give `Feedback <https://info.orcid.org/give-feedback/>`_ to ORCID
 
 
 .. toctree::
