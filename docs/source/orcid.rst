@@ -64,7 +64,7 @@ You are looking for reasons to implement ORCID in your organization's workflows?
 ORCID for Research Organizations
 --------------------------------
 .. note::
-   The website of the German ORCID DE consortium provides specific information for research organizations on membership with ORCID in **German language**: 
+   Technische Informationsbibliothek (TIB) manages the German node of ORCID - the **ORCID DE consortium** - and provides specific information for research organizations on membership with ORCID in **German language**: 
 
 
   * What do I need to know about the ORCID DE consortium to get started as a member? `Über das Konsortium <https://www.orcid-de.org/konsortium/ueber-das-konsortium>`_
