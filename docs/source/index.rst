@@ -12,7 +12,9 @@ such as a document, dataset, or resource. Unlike regular URLs,
 which can break or change, PIDs are designed to be stable over time, 
 ensuring consistent access to the associated content.
 
-test to embed a `link <http://pid.services.base4nfdi.de/get-pid/start/>`_
+
+Syntax experiments
+------------------
 
 template for embedding docs: Check out the :doc:`usage` section for further information
 
