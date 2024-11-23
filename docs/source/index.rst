@@ -35,4 +35,3 @@ Contents
    pid
    doi
    orcid
-   api
