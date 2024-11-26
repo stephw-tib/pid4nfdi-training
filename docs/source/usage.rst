@@ -35,3 +35,6 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+**Creating a DOI**
+***Creating a DOI***
+
