@@ -1,2 +1,2 @@
-ROR
+ROR - Research Organization Registry
 ===
