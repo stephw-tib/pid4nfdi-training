@@ -35,3 +35,4 @@ Contents
    pid
    doi
    orcid
+   ark
