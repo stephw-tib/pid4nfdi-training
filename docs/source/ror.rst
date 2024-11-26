@@ -1,2 +1,2 @@
-ROR Research Organization Registry
-==================================
+ROR - Research Organization Registry
+====================================
