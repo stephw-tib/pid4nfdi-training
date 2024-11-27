@@ -1,4 +1,3 @@
 ROR - Research Organization Registry
 ====================================
-:heading-level: 2
-What is a ROR?
+:heading-level: 2 What is a ROR?
