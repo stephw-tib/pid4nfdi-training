@@ -22,3 +22,26 @@ Anyone can propose additions or updates to the registry, regardless of affiliati
 `How can I add an organization to ROR? <https://ror.org/about/faqs/#how-can-i-add-an-organization-to-ror>`_
 
 See also here for the form to suggest changes: `<https://curation-request.ror.org/>`_
+
+`More on the curation model and the workflows of updating or registering a ROR ID:` <https://ror.org/registry/>`_
+and
+`<https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records>`_
+
+**Why can I not get an ROR ID for my department?**
+ROR is designed as a high-level registry of organizations, primarily addressing the core use case of affiliation tracking and providing essential metadata that integrates seamlessly with other institutional identifiers. While ROR does not aim to map departments within institutions, it does include some sub-units like research institutes and laboratories. Its open data and infrastructure are intended to support and integrate with local efforts focused on mapping organizational hierarchies at a more granular level.
+
+**Metadata Schema Versions**
+ROR maintains two versions of its metadata schema. The current recommended version (as of Jan 2025) is `version 2: <https://ror.readme.io/v2/docs/data-structure>`_
+
+**How to find an organization in the registry?**
+There are three ways to look up organizations and organization records in ROR:
+Web Search ROR at `<https://ror.org/search>`_
+Read the ROR REST API v2 documentation: `<https://ror.readme.io/v2/docs/rest-api>`_
+Download the entire ROR dataset dump in JSON and CSV format at `<https://doi.org/10.5281/zenodo.6347574>`_
+
+If you want to find out more about the different ways to get data out of ROR, see `ROR’s documentation: <https://ror.org/registry/#accessing-the-registry>`_
+
+**Interoperability**
+ROR enables seamless integration with other PIDs and their associated provider infrastructure. Several DOI registration agencies, such as Crossref and DataCite, as well as ORCID, have integrated ROR into their services. This collaborative network of services connects research outputs to their creators and affiliations, fostering greater transparency and facilitating the tracking of research provenance.
+
+
