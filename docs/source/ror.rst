@@ -53,8 +53,15 @@ If you want to find out more about the different ways to get data out of ROR, se
 --------------------
 ROR enables seamless integration with other PIDs and their associated provider infrastructure. Several DOI registration agencies, such as Crossref and DataCite, as well as ORCID, have integrated ROR into their services. This collaborative network of services connects research outputs to their creators and affiliations, fostering greater transparency and facilitating the tracking of research provenance.
 
+from the FAQs
+----
 * Is ROR supported in ORCID? `<https://ror.org/about/faqs/#is-ror-supported-in-orcid>`_
 * Is ROR supported in DOIs? `<https://ror.org/about/faqs/#is-ror-supported-in-dois>`_
 * How do I integrate ROR in my system? `<https://ror.org/about/faqs/#how-do-i-integrate-ror-in-my-system>`_
 * How do I implement ROR in my repository or system? `<https://ror.readme.io/docs/forms#implementation-approaches>`_
 
+For more FAQ see: `<https://ror.org/about/faqs/>`_
+
+Roadmap
+-------
+ROR provides transparent information on planned feature development, modifications of its data model and bug fixing on its roadmap: `<https://github.com/ror-community/ror-roadmap/issues>`_
