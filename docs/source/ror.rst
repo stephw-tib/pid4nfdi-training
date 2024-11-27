@@ -34,7 +34,9 @@ ROR is designed as a high-level registry of organizations, primarily addressing 
 ROR maintains two versions of its metadata schema. The current recommended version (as of Jan 2025) is `version 2: <https://ror.readme.io/v2/docs/data-structure>`_
 
 **How to find an organization in the registry?**
+
 There are three ways to look up organizations and organization records in ROR:
+
 * Web Search ROR at `<https://ror.org/search>`_
 * Read the ROR REST API v2 documentation: `<https://ror.readme.io/v2/docs/rest-api>`_
 * Download the entire ROR dataset dump in JSON and CSV format at `<https://doi.org/10.5281/zenodo.6347574>`_
