@@ -23,9 +23,9 @@ Anyone can propose additions or updates to the registry, regardless of affiliati
 
 See also here for the form to suggest changes: `<https://curation-request.ror.org/>`_
 
-`More on the curation model and the workflows of updating or registering a ROR ID:` <https://ror.org/registry/>`_
-and
-`<https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records>`_
+`More on the curation model and the workflows of updating or registering a ROR ID: 
+  * `<https://ror.org/registry/>`_ and
+  * `<https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records>`_
 
 **Why can I not get an ROR ID for my department?**
 ROR is designed as a high-level registry of organizations, primarily addressing the core use case of affiliation tracking and providing essential metadata that integrates seamlessly with other institutional identifiers. While ROR does not aim to map departments within institutions, it does include some sub-units like research institutes and laboratories. Its open data and infrastructure are intended to support and integrate with local efforts focused on mapping organizational hierarchies at a more granular level.
