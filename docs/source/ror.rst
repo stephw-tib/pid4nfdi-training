@@ -47,7 +47,7 @@ There are three ways to look up organizations and organization records in ROR:
 * Read the ROR REST API v2 documentation: `<https://ror.readme.io/v2/docs/rest-api>`_
 * Download the entire ROR dataset dump in JSON and CSV format at `<https://doi.org/10.5281/zenodo.6347574>`_
 
-If you want to find out more about the different ways to get data out of ROR, see `ROR’s documentation: <https://ror.org/registry/#accessing-the-registry>`_
+If you want to find out more about the different ways to get data out of ROR, see `ROR’s documentation <https://ror.org/registry/#accessing-the-registry>`_
 
 **Interoperability**
 --------------------
