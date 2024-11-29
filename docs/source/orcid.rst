@@ -21,6 +21,9 @@ ORCID for Researchers and other Contributors
 
 Find instructions on how to set up your ORCID record and get an ORCID iD in the ORCID documentation on `Vimeo <https://vimeo.com/showcase/4268215/video/236778203>`_.
 
+**How do I find out if I already have an ORCID iD?**
+
+You remember vaguely that you have once registered for an ORCID iD while submitting a paper? Search with your name for your ORCID profile (record) in the `ORCID registry <https://orcid.org/>`_
 
 
 **Where can I find essential information about ORCID?**
