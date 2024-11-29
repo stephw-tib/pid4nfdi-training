@@ -46,7 +46,6 @@ Contents
 --------
 
 .. toctree::
-
    choose
    ark
    doi
