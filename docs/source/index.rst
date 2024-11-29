@@ -41,7 +41,6 @@ Contents
 
 .. toctree::
 
-   pid
    ark
    doi
    orcid
