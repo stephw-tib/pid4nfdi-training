@@ -30,14 +30,15 @@ Structure and Features
 ----------------------
 
 .. code-block:: console
-  Example of an ARK structure: https://n2t.net/ark:/12345/abc123/section1
-  1. The Base URL begins with a resolver address: [https://n2t.net/]
-  2. The ARK Label indicates the identifier type [ark:]
-  3. The NAAN is assigned to the organization managing the identifier: [12345]
-  4. The Name or Local Identifier is a unique string representing the resource within the namespace of the managing organization: [abc123]
-  5. The Qualifier (optional) is an additional string used to  
-      a. refer to a specific version or subset of the resource: [section1]
-      b. contain further metadata information using a [?] suffix: e.g. http://example.org/ark:/12345/abcde?
+
+    Example of an ARK structure: https://n2t.net/ark:/12345/abc123/section1
+    1. The Base URL begins with a resolver address: [https://n2t.net/]
+    2. The ARK Label indicates the identifier type [ark:]
+    3. The NAAN is assigned to the organization managing the identifier: [12345]
+    4. The Name or Local Identifier is a unique string representing the resource within the namespace of the managing organization: [abc123]
+    5. The Qualifier (optional) is an additional string used to  
+        a. refer to a specific version or subset of the resource: [section1]
+        b. contain further metadata information using a [?] suffix: e.g. http://example.org/ark:/12345/abcde?
 
 ARKs are designed to be human- and machine-readable, making them versatile for use across various systems. The identifier does not require any metadata, but supports the usage of multiple schemata. This design is intended to allow the registration of ARKs at every lifecycle stage of an entity and at every granularity level. For further information, please see overview of `features <https://arks.org/about/ark-features/>`_.
 
@@ -45,9 +46,9 @@ ARKs are designed to be human- and machine-readable, making them versatile for u
 More information
 ---------------
 
-The ARK Alliance provides comprehensive information on ARKs, their functionalities and community: https://arks.org/
-ARK identifiers Wiki with FAQ: https://wiki.lyrasis.org/display/ARKs/ARK+Identifiers+FAQ 
-About the N2T (meta) resolver service: https://legacy-n2t.n2t.net/e/about.html 
-A quick summary is provided by John Kunze and Donny Winston in “Getting started with ARK (Archival Resource Key) Persistent Identifiers” (2024): https://www.youtube.com/watch?v=-RkMGFCGRic 
+  * The ARK Alliance provides comprehensive information on ARKs, their functionalities and community: https://arks.org/
+  * ARK identifiers Wiki with `FAQ <https://wiki.lyrasis.org/display/ARKs/ARK+Identifiers+FAQ>`_ 
+  * About the `N2T (meta) resolver service <https://legacy-n2t.n2t.net/e/about.html>`_
+  * A quick summary is provided by John Kunze and Donny Winston in “Getting started with ARK (Archival Resource Key) Persistent Identifiers” (2024): https://www.youtube.com/watch?v=-RkMGFCGRic 
 
 
