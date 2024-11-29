@@ -28,10 +28,13 @@ The ARK Alliance provides information on `how to get started with ARKs <https://
 
 Structure and Features
 ----------------------
+How does an ARK look like? Here is an example of the structure:
 
 .. code-block:: console
 
-    Example of an ARK structure: https://n2t.net/ark:/12345/abc123/section1
+    https://n2t.net/ark:/12345/abc123/section1
+
+    Elements:
     1. The Base URL begins with a resolver address: [https://n2t.net/]
     2. The ARK Label indicates the identifier type [ark:]
     3. The NAAN is assigned to the organization managing the identifier: [12345]
