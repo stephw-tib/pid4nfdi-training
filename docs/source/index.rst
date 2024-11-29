@@ -20,7 +20,18 @@ ensuring consistent access to the associated content.
 
 What are the Benefits of PIDs?
 -----------------------------
-tbd
+
+**FAIR and Open Science - Related to PIDs?**
+
+PIDs play a crucial role in supporting the `FAIR principles <https://doi.org/10.1038/sdata.2016.18>`_, which aim to ensure that digital resources are Findable, Accessible, Interoperable, and Reusable. Here's how PIDs align with each of the FAIR principles:
+  # **Findable:**
+   PIDs help make resources easily findable by providing a unique, permanent identifier (e.g., DOI, ORCID, ARK) that can be indexed and searched in databases, repositories, and catalogs. The metadata associated with PIDs also makes it easier for users to locate resources.
+  # **Accessible:**
+   PIDs ensure persistent access to digital objects, even if their location changes (e.g., through DOI resolution services). By linking to the current location of the resource, PIDs ensure that the resource remains accessible over time.
+  # **Interoperable:**
+   PIDs, combined with well-structured metadata, support interoperability by allowing different systems, repositories, and platforms to understand and exchange information about the resource in a standardized way. PIDs often include metadata formats that adhere to common standards, making them usable across various systems.
+  # **Reusable:**
+   PIDs ensure that resources can be reliably cited, tracked, and referenced in academic and research contexts. They support reuse by making sure the resource is consistently identified over time, regardless of where or how it is stored. Metadata linked to PIDs also often includes licensing and versioning information, which clarifies how the resource can be reused.
 
 
 
