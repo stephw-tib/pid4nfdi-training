@@ -4,7 +4,7 @@ ROR - Research Organization Registry
 What is a ROR ID?
 ---------------------
 
-ROR is an open registry of research organization identifiers.It helps standardize the identification of institutions in scholarly communications, ensuring accurate attribution and easier data sharing. All ROR IDs and metadata are provided under the Creative Commons CC0. The registry data is openly available via a search interface, REST API, and data dump. 
+ROR is an open registry of research organization identifiers. It helps standardize the identification of institutions in scholarly communications, ensuring accurate attribution and easier data sharing. All ROR IDs and metadata are provided under the Creative Commons CC0. The registry data is openly available via a search interface, REST API, and data dump. 
 
 `Research Organization Registry (ROR) | Home <https://ror.org/>`_
 
@@ -37,7 +37,7 @@ ROR is designed as a high-level registry of organizations, primarily addressing 
 
 Metadata Schema Versions
 ----------------------------
-ROR maintains two versions of its metadata schema. The current recommended version (as of Jan 2025) is `version 2: <https://ror.readme.io/v2/docs/data-structure>`_
+ROR maintains two versions of its metadata schema. The current recommended version (as of Jan 2025) is `version 2 <https://ror.readme.io/v2/docs/data-structure>`_.
 
 How to find an organization in the registry?
 ------------------------------------------------
@@ -47,7 +47,7 @@ There are three ways to look up organizations and organization records in ROR:
 * Read the ROR REST API v2 documentation: `<https://ror.readme.io/v2/docs/rest-api>`_
 * Download the entire ROR dataset dump in JSON and CSV format at `<https://doi.org/10.5281/zenodo.6347574>`_
 
-If you want to find out more about the different ways to get data out of ROR, see `ROR’s documentation <https://ror.org/registry/#accessing-the-registry>`_
+If you want to find out more about the different ways to get data out of ROR, see `ROR’s documentation <https://ror.org/registry/#accessing-the-registry>`_.
 
 Interoperability
 --------------------
