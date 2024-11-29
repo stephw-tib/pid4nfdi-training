@@ -31,9 +31,8 @@ Contents
 
 .. toctree::
 
-   usage
    pid
+   ark
    doi
    orcid
    ror
-   ark
