@@ -53,6 +53,7 @@ Contents
 
 .. toctree::
 
+   choose
    ark
    doi
    orcid
