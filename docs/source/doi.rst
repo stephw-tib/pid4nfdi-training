@@ -7,7 +7,8 @@ A **DOI (Digital Object Identifier)** is a type of PID used to uniquely identify
 
 
 Key features of a DOI include:
- * **Unique and Persistent:** Each DOI is unique and remains associated with its resource, even if the resource's location (URL) changes.
+ * **Unique:** Each DOI is unique and remains associated with its resource, even if the resource's location (URL) changes.
+ * **Persistent:** DOIs are managed in a distributed environment with shared responsibilities, guaranteeing their persistence on a technical and organizational level.
  * **Resolvable:** DOIs can be entered into the DOI resolver (e.g., https://doi.org/) to redirect users to the current location of the resource.
  * **Widely Used:** DOIs are commonly used in scholarly publishing, ensuring reliable citations and access to academic work.
  * **Format:** A DOI typically follows a format like 10.xxxx/xxxxx, where the prefix identifies the publisher or organization, and the suffix identifies the specific object.
@@ -59,5 +60,7 @@ DataCite offers several ways to mint DOIs and `test accounts <https://support.da
 The TIB DOI consortium services provides a `German translation <https://wiki.tib.eu/confluence/display/pid/DataCite+Fabrica+Handbuch+Startseite>`_  of DataCite's Fabrica guide, including a growing collection of `FAQs <https://wiki.tib.eu/confluence/display/pid/FAQs>`_  on DOI registration. 
 
 DataCite supports the registration of DOIs for a wide range of resource types. The documentation of the `DataCite Metadata Schema <https://schema.datacite.org/>`_ provides an overview of `resource types <https://datacite-metadata-schema.readthedocs.io/en/4.5/properties/resourcetype/>`_ and how to register them.
+
+You can use `DataCite Suggestions on GitHub <https://github.com/datacite/datacite-suggestions>`_ to communicate further requirements for DOI registration that are not already covered by the service.
 
 **With Crossref**
