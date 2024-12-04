@@ -37,10 +37,10 @@ The management of DOIs works in an environment of distributed responsibilities t
 
 3. A Registrant - e.g. a repository of a research organization - actually registers DOIs and is responsible for creating, updating and maintaing a DOI and its metadata providing the landing page and repository URL the DOI is resolving to. 
 
-Registering a DOI
+Registering a DOI with DataCite
 ----------------
-**With DataCite**
-Registering DOIs with DataCite requires an institutional membership with DataCite - either as a direct member or in a consortium. For different types of membership, see further information: https://datacite.org/become-a-member/ 
+
+Registering DOIs with DataCite requires an institutional membership with DataCite - either as a direct member or in a consortium. `Membership and service fees <https://datacite.org/fee-model/>`_ are charged for the service, depending on the `type of membership <https://datacite.org/become-a-member/>`_.
 
 In Germany, there are five consortia working as intermediaries between DataCite and registering organizations, focussing on different subject fields:
 
@@ -63,4 +63,6 @@ DataCite supports the registration of DOIs for a wide range of resource types. T
 
 You can use `DataCite Suggestions on GitHub <https://github.com/datacite/datacite-suggestions>`_ to communicate further requirements for DOI registration that are not already covered by the service.
 
-**With Crossref**
+Registering a DOI with Crossref
+-------------------
+
