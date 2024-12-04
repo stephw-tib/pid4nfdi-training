@@ -15,6 +15,7 @@ Key features of a DOI include:
 For example, a DOI for a research article may look like:
 
 .. code-block:: console
+
     https://doi.org/10.1000/xyz123
 
 Learn more about DOI with the `DOI Handbook <https://www.doi.org/the-identifier/resources/handbook/>`_.
