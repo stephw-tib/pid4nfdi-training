@@ -11,14 +11,53 @@ Key features of a DOI include:
  * **Resolvable:** DOIs can be entered into the DOI resolver (e.g., https://doi.org/) to redirect users to the current location of the resource.
  * **Widely Used:** DOIs are commonly used in scholarly publishing, ensuring reliable citations and access to academic work.
  * **Format:** A DOI typically follows a format like 10.xxxx/xxxxx, where the prefix identifies the publisher or organization, and the suffix identifies the specific object.
-For example, a DOI for a research article may look like https://doi.org/10.1000/xyz123.
+For example, a DOI for a research article may look like:
 
-DOIs for Researchers and other Contributors
--------------------------------------------
+.. code-block:: console
+    https://doi.org/10.1000/xyz123
+
+Learn more about DOI with the `DOI Handbook <https://www.doi.org/the-identifier/resources/handbook/>`_.
+
+
 **How can I get a DOI for my publication?**
 
 
-DOIs are not provided to researchers directly. DOIs for research resources such as publications, datasets, software and other entities will be e.g. registered by a repository provider such as your university library repository, a generic or discipline-specific data repository or the journal you are publishing with.
+DOIs are usually not provided to researchers directly. DOIs for research resources such as publications, datasets, software and other entities will be e.g. registered by a repository provider such as your university library repository, a generic or discipline-specific data repository or the journal you are publishing with.
 
-DOIs for Repositories
----------------------
+
+Responsibilities
+-----------------
+
+The management of DOIs works in an environment of distributed responsibilities to enable actual persistence:
+
+1. The `DOI foundation <https://www.doi.org/the-foundation/about-us/>`_ is a non-profit organization and the authority overseeing the DOI system under the ISO standard ISO 26324. The DOI foundation is governed collaboratively by the DOI regstration agencies.
+
+2. DOI registration is managed by `DOI registration agencies (RA) <https://www.doi.org/the-community/what-are-registration-agencies/ >`_ which provide the technical infrastructure to mint DOIs. The registration agencies are representing `different communities <https://www.doi.org/the-community/existing-registration-agencies/>`_ , the most prominent agencies are DataCite and Crossref within the scientific landscape. 
+
+3. A Registrant - e.g. a repository of a research organization - actually registers DOIs and is responsible for creating, updating and maintaing a DOI and its metadata providing the landing page and repository URL the DOI is resolving to. 
+
+Registering a DOI
+----------------
+**With DataCite**
+Registering DOIs with DataCite requires an institutional membership with DataCite - either as a direct member or in a consortium. For different types of membership, see further information: https://datacite.org/become-a-member/ 
+
+In Germany, there are five consortia working as intermediaries between DataCite and registering organizations, focussing on different subject fields:
+
+  * `TIB DOI Consortium <https://projects.tib.eu/pid-service/en/tib-doi-konsortium/become-a-member/>`_ for the sciences and technology
+  * `da|ra <https://www.da-ra.de/>`_ for social and economic data
+  * `ZB Med DOI service <https://www.publisso.de/en/working-for-you/doi-service>`_ for the life sciences
+  * `SUB Göttingen DOI Registration Service <https://www.eresearch.uni-goettingen.de/knowledge-base/howto/getting-an-identifier/>`_ for the humanities
+  * `DOI Consortium <https://service-wiki.hbz-nrw.de/display/DOI/FAQ+zum+DOI-Konsortium>`_ of Hochschulbibliothekszentrum (hbz) Nordrhein-Westfalen, a service for the libraries of universities in Northrhine-Westphalia.
+
+The `DataCite support <https://support.datacite.org/>`_ offers a rich documentation on using the services and `getting started <https://support.datacite.org/docs/getting-started>`_
+
+DataCite offers several ways to mint DOIs and `test accounts <https://support.datacite.org/docs/testing-guide>`_  to get started:
+
+  * via `REST API <https://support.datacite.org/docs/api>`_
+  * via its user interface `Fabrica <https://support.datacite.org/docs/doi-fabrica>`_
+
+The TIB DOI consortium services provides a `German translation <https://wiki.tib.eu/confluence/display/pid/DataCite+Fabrica+Handbuch+Startseite>`_  of DataCite's Fabrica guide, including a growing collection of `FAQs <https://wiki.tib.eu/confluence/display/pid/FAQs>`_  on DOI registration. 
+
+DataCite supports the registration of DOIs for a wide range of resource types. The documentation of the `DataCite Metadata Schema <https://schema.datacite.org/>`_ provides an overview of `resource types <https://datacite-metadata-schema.readthedocs.io/en/4.5/properties/resourcetype/>`_ and how to register them.
+
+**With Crossref**
