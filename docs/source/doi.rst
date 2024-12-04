@@ -84,5 +84,5 @@ Direct registration of metadata XML:
   * `Upload XML with admin tool <https://www.crossref.org/documentation/register-maintain-records/direct-deposit-xml/admin-tool/>`_
   * `XML deposit using HTTPS POST <https://www.crossref.org/documentation/register-maintain-records/direct-deposit-xml/https-post/>`_
 
-The Crossref Documentation provides further`guidance <https://www.crossref.org/documentation/register-maintain-records/choose-content-registration-method/>`_ on choosing the appropriate method for your registration workflow.
+The Crossref Documentation provides further `guidance <https://www.crossref.org/documentation/register-maintain-records/choose-content-registration-method/>`_ on choosing the appropriate method for your registration workflow.
 
