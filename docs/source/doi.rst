@@ -75,8 +75,8 @@ The content to be registered must be scholarly in nature - e.g. journal articles
 Crossref offers several ways to deposit metadata and mint a DOI:
 
 With Helper Tools:
-  * `Web deposit form <https://www.crossref.org/documentation/register-maintain-records/web-deposit-form/>`_
-  * `Record registration form <https://www.crossref.org/documentation/register-maintain-records/record-registration-form/>`_
+  * `Web deposit form for publications <https://www.crossref.org/documentation/register-maintain-records/web-deposit-form/>`_
+  * `Record registration form for grants <https://www.crossref.org/documentation/register-maintain-records/record-registration-form/>`_
   * `Plugin for Open Journal Systems (OJS) <https://www.crossref.org/documentation/register-maintain-records/ojs-plugin/>`_
 
 Direct registration of metadata XML:
