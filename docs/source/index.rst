@@ -51,6 +51,7 @@ Contents
    doi
    epic
    factgrid
+   igsn
    orcid
    pida
    ror
