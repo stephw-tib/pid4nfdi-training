@@ -1,5 +1,8 @@
-What is FactGrid? What is special about the service?
+FactGrid - A database for historians
 ====================================================
+
+What is FactGrid? What is special about the service?
+----------------------------------------------------
 
 FactGrid is a Wikibase installation that brings the software developed for Wikimedia’s Wikidata project into the world of academic research. It serves as both a technological and cultural game changer. Technologically, it is innovative because we are no longer constrained by the limitations of relational databases. Anything can now become an object of knowledge, or an "item," in any arrangement of properties that we can define as needed.
 
