@@ -49,5 +49,9 @@ Contents
    choose
    ark
    doi
+   epic
+   factgrid
    orcid
+   pida
    ror
+   wikidata
