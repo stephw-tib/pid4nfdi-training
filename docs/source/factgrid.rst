@@ -34,6 +34,7 @@ Common User Questions
 --------------------------------------------------------
 
 Most questions are practical:
+
   * How should we prepare spreadsheets for input?
   * Which FactGrid properties should we use for the best integration?
   * Which new properties do we need?
