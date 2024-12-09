@@ -43,7 +43,7 @@ The partnership strives to better support material samples within DataCite servi
 How do I search for an IGSN ID?
 -------------------------------
 
-IGSN IDs created in DataCite services are of relatedIdentifierType ‘DOI’. Hence, Findable IGSN IDs appear in search queries through DataCite Commons, DataCite APIs, and other discovery services. They are also represented in the PID Graph. To limit a search to IGSN IDs only, one must take advantage of the IGSN ID Catalog Repository type. For example, the following search query displays all findable IGSN IDs within `DataCite Commons: <https://commons.datacite.org/doi.org?query=client.client_type%3AigsnCatalog+types.resourceTypeGeneral%3APhysicalObject>`_. This query string is not intuitively obvious, and DataCite will soon release a feature in DataCite Commons to facilitate querying and reporting on IGSN IDs.
+IGSN IDs created in DataCite services are of relatedIdentifierType ‘DOI’. Hence, Findable IGSN IDs appear in search queries through `DataCite Commons <https://commons.datacite.org/>`_, DataCite APIs, and other discovery services. They are also represented in the `PID Graph <https://support.datacite.org/docs/datacite-graphql-api-guide>`_. To limit a search to IGSN IDs only, one must take advantage of the IGSN ID Catalog Repository type. For example, the following search query displays all findable IGSN IDs within `DataCite Commons <https://commons.datacite.org/doi.org?query=client.client_type%3AigsnCatalog+types.resourceTypeGeneral%3APhysicalObject>`_. This query string is not intuitively obvious, and DataCite will soon release a feature in DataCite Commons to facilitate querying and reporting on IGSN IDs.
 
 Interoperability
 ----------------
@@ -57,7 +57,7 @@ IGSN IDs provide a common standard for identifying and describing samples, enabl
 What support documentation is available for IGSN IDs?
 -----------------------------------------------------
 
-In addition to the IGSN e.V. website, DataCite has drafted specific IGSN ID documentation on its Support site: `<https://support.datacite.org/docs/about-igsn-ids-for-material-samples>`_. 
+In addition to the `IGSN e.V. website <https://www.igsn.org/>`_, DataCite has drafted specific IGSN ID documentation on its `Support site: <https://support.datacite.org/docs/about-igsn-ids-for-material-samples>`_. 
 
   
 Who do I contact to find out more about IGSN IDs?
