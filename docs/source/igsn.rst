@@ -43,7 +43,7 @@ The partnership strives to better support material samples within DataCite servi
 How do I search for an IGSN ID?
 -------------------------------
 
-IGSN IDs created in DataCite services are of relatedIdentifierType ‘DOI’. Hence, Findable IGSN IDs appear in search queries through DataCite Commons, DataCite APIs, and other discovery services. They are also represented in the PID Graph. To limit a search to IGSN IDs only, one must take advantage of the IGSN ID Catalog Repository type. For example, the following search query displays all findable IGSN IDs within DataCite Commons: https://commons.datacite.org/doi.org?query=client.client_type%3AigsnCatalog+types.resourceTypeGeneral%3APhysicalObject. This query string is not intuitively obvious, and DataCite will soon release a feature in DataCite Commons to facilitate querying and reporting on IGSN IDs.
+IGSN IDs created in DataCite services are of relatedIdentifierType ‘DOI’. Hence, Findable IGSN IDs appear in search queries through DataCite Commons, DataCite APIs, and other discovery services. They are also represented in the PID Graph. To limit a search to IGSN IDs only, one must take advantage of the IGSN ID Catalog Repository type. For example, the following search query displays all findable IGSN IDs within `DataCite Commons: <https://commons.datacite.org/doi.org?query=client.client_type%3AigsnCatalog+types.resourceTypeGeneral%3APhysicalObject>`_. This query string is not intuitively obvious, and DataCite will soon release a feature in DataCite Commons to facilitate querying and reporting on IGSN IDs.
 
 Interoperability
 ----------------
