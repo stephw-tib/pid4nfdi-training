@@ -51,6 +51,6 @@ Detailed guidance is available through `FactGrid’s blog <https://blog.factgrid
 
 Is there a FAQ page?
 --------------
-FactGrid maintains a multilingual FAQ page available in English, German, French, and Hungarian: `FactGrid FAQ. <https://blog.factgrid.de/archives/1591>`_.
+FactGrid maintains a multilingual FAQ page available in English, German, French, and Hungarian: `FactGrid FAQ <https://blog.factgrid.de/archives/1591>`_.
 
 
