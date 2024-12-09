@@ -4,7 +4,6 @@ FactGrid - A database for historians
 What is FactGrid? What is special about the service?
 ----------------------------------------------------
 
-Overview
 FactGrid is a specialized Wikibase platform tailored for academic research, leveraging software initially developed for Wikimedia's Wikidata project. It enables researchers to manage and interlink data with flexibility beyond traditional relational databases. Users can define and customize objects ("items") and their properties, facilitating diverse and complex data structures.
 
 The platform is designed for multilingual collaboration, allowing users from various linguistic backgrounds to work on shared objects, each described in their respective languages.
@@ -35,13 +34,13 @@ Common User Questions
 --------------------------------------------------------
 
 Most questions are practical:
-* How should we prepare spreadsheets for input?
-* Which FactGrid properties should we use for the best integration?
-* Which new properties do we need?
-* How do we match place names in our data with the over 300,000 places already available on FactGrid?
-* Where can we find specific datasets to feed into FactGrid, now that we realize we shouldn't duplicate existing data from other sources?
-* How do we communicate on the platform?
-* How long will it take us to create a set of 1,000 people? (Only a few minutes, once you identified the overlaps with already existing information.)
+  * How should we prepare spreadsheets for input?
+  * Which FactGrid properties should we use for the best integration?
+  * Which new properties do we need?
+  * How do we match place names in our data with the over 300,000 places already available on FactGrid?
+  * Where can we find specific datasets to feed into FactGrid, now that we realize we shouldn't duplicate existing data from other sources?
+  * How do we communicate on the platform?
+  * How long will it take us to create a set of 1,000 people? (Only a few minutes, once you identified the overlaps with already existing information.)
 
 Where can I find information to start working on the platform?
 --------------------------------------------------------------
