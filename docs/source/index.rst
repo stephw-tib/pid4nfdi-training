@@ -1,4 +1,4 @@
-Getting started with PIDs - PID4NFDI Cookbook
+PID4NFDI Cookbook: Getting started with PIDs
 ===================================
 
 This is a **cookbook** to support you in getting started with PID registration and usage. 
