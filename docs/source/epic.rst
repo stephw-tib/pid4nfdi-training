@@ -21,21 +21,21 @@ To obtain an ePIC identifier, you need to work with a registered ePIC service pr
 
 5. **Use and Manage the Identifier**: Integrate the ePIC into your workflows for citation, sharing, and resource management. Updates or additional metadata can often be added as needed.
 
-More information
+For more detailed guidance
 ---------------
 
-* You can explore the ePIC Consortium website (https://www.pidconsortium.net/) for more information and a list of participating providers. 
+* explore the ePIC Consortium website (https://www.pidconsortium.net/) for additional information and a list of participating providers.. 
 
-* For first the step a FAQ section is provided (https://www.pidconsortium.net/?page_id=1060). 
+* start with the `FAQ section <https://www.pidconsortium.net/?page_id=1060>`_. 
 
-* The documentation of the API is described here: Documentation (https://doc.pidconsortium.eu/docs/). 
+* The API documentation can be found here: https://doc.pidconsortium.eu/docs/. 
 
-* To get support for the selection of metadata or the typing of metadata attributes, please contact support@pidconsortium.net. 
+* To get support for the selection of metadata or the typing of metadata attributes, please contact: support@pidconsortium.net. 
 
 Interoperability
 ----------------
 
-PID ePIC is 100% compatible with the DOI and a PID (including the prefix) can also be resolved by any server Global Handle Resolver. 
+The ePIC system is fully interoperable with DOI (Digital Object Identifier) standards. Any ePIC identifier, including its prefix, can also be resolved using the Global Handle Resolver, ensuring seamless integration into existing research infrastructures. 
 
 Contact
 -------
