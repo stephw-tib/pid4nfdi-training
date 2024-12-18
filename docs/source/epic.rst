@@ -10,6 +10,7 @@ How do I get an ePIC?
 ---------------------
 
 To obtain an ePIC identifier, you need to work with a registered ePIC service provider, which is typically a member of the ePIC Consortium. Here’s a step-by-step guide:
+
 1. Find a Service Provider: Identify an organization within the ePIC Consortium that offers PID (Persistent Identifier) services. Many are universities, research institutions, data centers, or National Research & Education Networks (NREN).
 
 2. Register as a Client: Contact the provider to register and set up access to their PID services. The client will usually be provided with a dedicated namespace/prefix. The prefix is allocated in the top level namespace 21. Based on the policy of ePIC the Client will get access to the APIs for the management of PID and their metadata.
