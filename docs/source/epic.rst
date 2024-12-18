@@ -24,7 +24,13 @@ To obtain an ePIC identifier, you need to work with a registered ePIC service pr
 More information
 ---------------
 
-You can explore the ePIC Consortium website (https://www.pidconsortium.net/) for more information and a list of participating providers. For first the step a FAQ section is provided (https://www.pidconsortium.net/?page_id=1060). The documentation of the API is described here: Documentation (https://doc.pidconsortium.eu/docs/). To get support for the selection of metadata or the typing of metadata attributes, please contact support@pidconsortium.net. 
+* You can explore the ePIC Consortium website (https://www.pidconsortium.net/) for more information and a list of participating providers. 
+
+* For first the step a FAQ section is provided (https://www.pidconsortium.net/?page_id=1060). 
+
+* The documentation of the API is described here: Documentation (https://doc.pidconsortium.eu/docs/). 
+
+* To get support for the selection of metadata or the typing of metadata attributes, please contact support@pidconsortium.net. 
 
 Interoperability
 ----------------
