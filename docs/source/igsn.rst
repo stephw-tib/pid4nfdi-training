@@ -1,7 +1,7 @@
 IGSN - International Generic Sample Number
 ==========================================
 
-What is a IGSN?
+What is an IGSN?
 ---------------
 
 An IGSN ID is a globally unique and persistent identifier for material samples. The core purpose of the IGSN ID is to enable transparent and traceable connections between research activities and objects, including samples, collections, instruments, grants, data, publications, people, and organizations.
