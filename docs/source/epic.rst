@@ -1,4 +1,4 @@
-ePIC - European Persistent Identifier Consortium
+ePIC - Persistent Identifier Consortium for eResearch
 ===========================
 
 What is ePIC?
