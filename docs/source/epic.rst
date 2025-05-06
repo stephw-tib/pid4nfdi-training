@@ -1,15 +1,22 @@
 ePIC - Persistent Identifier Consortium for eResearch
 ===========================
 
-What is ePIC?
+What is an ePIC PID?
 -------------
 
-The ePIC (Persistent Identifier Consortium for eResearch) identifier is a globally unique, persistent identifier designed for long-term management and referencing of digital and physical resources. Developed by the ePIC consortium, it ensures that data, samples, publications, or other research outputs remain accessible and citable over time. The system supports robust metadata and flexible resolution services, making it a versatile tool for managing research assets in a reliable and interoperable manner. The PIDs created and maintained are based on the Handle System.
+The ePIC (Persistent Identifier Consortium for eResearch) PID is a globally unique, persistent identifier designed for long-term management and referencing of digital and physical resources. Developed by the ePIC consortium, it ensures that data, samples, publications, or other research outputs remain accessible and citable over time. The system supports robust metadata and flexible resolution services, making it a versatile tool for managing research assets in a reliable and interoperable manner. The PIDs created and maintained are based on the `Handle System <https://www.handle.net/>`_.
 
-How do I get an ePIC?
+todo: add key features&use-cases:
+- assign PIDs to data before being published
+- cost-efficient for large numbers of PIDs
+- no fixed schema
+- policy configurations https://www.pidconsortium.net/?page_id=92; quality of service
+
+How do I get an ePIC PID?
 ---------------------
-
-To obtain an ePIC identifier, you need to work with a registered ePIC service provider, which is typically a member of the ePIC Consortium. Here’s a step-by-step guide:
+todo: as a researcher, ask your institution. as a service provider, as email-contact; divide 1&2 from 3,4,5
+todo: add information about prefix registration service and fee model by GWDG
+To obtain an ePIC PID, you need to work with a registered ePIC service provider, which is typically a member of the ePIC Consortium. Here’s a step-by-step guide:
 
 1. **Find a Service Provider**: Identify an organization within the ePIC Consortium that offers PID (Persistent Identifier) services. Many are universities, research institutions, data centers, or National Research & Education Networks (NREN).
 
@@ -41,3 +48,4 @@ Contact
 -------
 
 If you have a project for which PIDs need to be generated, please contact support@pidconsortium.eu.
+todo: prefix registration service
