@@ -5,7 +5,6 @@
 project = 'PID4NFDI Cookbook'
 copyright = '2025, PID4NFDI'
 author = 'PID4NFDI'
-funding = 'This project is funded as part of Base4NFDI <https://base4nfdi.de/>`_. Grant Number:521466146 <https://gepris.dfg.de/gepris/projekt/521466146?language=en>`_'
 
 release = '0.1'
 version = '0.1.0'
@@ -40,3 +39,6 @@ extensions = [
 ]
 
 html_last_updated_fmt = '%b %d, %Y'
+
+html_context = {
+    'funding_info' : 'This project is funded as part of Base4NFDI <https://base4nfdi.de/>`_. Grant Number:521466146 <https://gepris.dfg.de/gepris/projekt/521466146?language=en>`_'
