@@ -3,8 +3,9 @@
 # -- Project information
 
 project = 'PID4NFDI Cookbook'
-copyright = '2024, PID4NFDI'
+copyright = '2025, PID4NFDI'
 author = 'PID4NFDI'
+funding = 'This project is funded as part of Base4NFDI <https://base4nfdi.de/>'_. Grant Number:521466146 <https://gepris.dfg.de/gepris/projekt/521466146?language=en>'_'
 
 release = '0.1'
 version = '0.1.0'
