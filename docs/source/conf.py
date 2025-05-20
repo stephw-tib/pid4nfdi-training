@@ -33,3 +33,9 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+extensions = [
+    'sphinx_last_updated_by_git',
+]
+
+html_last_updated_fmt = '%b %d, %Y'
