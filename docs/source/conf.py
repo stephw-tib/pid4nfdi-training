@@ -39,3 +39,4 @@ extensions = [
 ]
 
 html_last_updated_fmt = '%b %d, %Y'
+html_last_updated_in_footer = True 
