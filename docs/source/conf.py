@@ -39,5 +39,3 @@ extensions = [
 ]
 
 html_last_updated_fmt = '%b %d, %Y'
-
-
