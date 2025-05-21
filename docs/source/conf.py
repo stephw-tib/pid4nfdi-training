@@ -27,6 +27,10 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+html_context = {
+    'funding_info': 'This project is funded as part of Base4NFDI <https://base4nfdi.de/>`_. Grant Number:521466146 <https://gepris.dfg.de/gepris/projekt/521466146?language=en>`_'
+}
+
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
@@ -40,6 +44,4 @@ extensions = [
 
 html_last_updated_fmt = '%b %d, %Y'
 
-html_context = {
-    'funding_info': 'This project is funded as part of Base4NFDI <https://base4nfdi.de/>`_. Grant Number:521466146 <https://gepris.dfg.de/gepris/projekt/521466146?language=en>`_'
-}
+
