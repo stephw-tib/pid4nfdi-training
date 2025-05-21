@@ -9,12 +9,14 @@ Provider
 Technische Informationsbibliothek (TIB)
 Welfengarten 1 B, 30167 Hannover
 Postfach 6080, 30060 Hannover
+
 Technische Informationsbibliothek (TIB) is a foundation of public law of the state of Lower Saxony.
   
 Authorised Representative
 ----------------------
   
 Prof. Dr. Sören Auer (Director of TIB)
+
 Responsible Supervisory Authority
 ---------------------------------
   
@@ -32,4 +34,5 @@ DE 214931803
 Editorial Office
 -------------
 Responsible for the content according to § 18 Abs. 2 MStV:
-Dr. Stephanie Hagemann-Wilholt; email: stephanie.hagemann@tib.eu 
+
+Dr. Stephanie Hagemann-Wilholt; Email: stephanie.hagemann@tib.eu 
