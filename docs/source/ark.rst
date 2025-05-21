@@ -47,7 +47,7 @@ ARKs are designed to be human- and machine-readable, making them versatile for u
 
 
 More information
----------------
+----------------
 
   * The ARK Alliance provides comprehensive information on ARKs, their functionalities and community: https://arks.org/
   * ARK identifiers Wiki with `FAQ <https://wiki.lyrasis.org/display/ARKs/ARK+Identifiers+FAQ>`_ 
