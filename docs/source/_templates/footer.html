@@ -1,1 +1,5 @@
-
+<div class="footer">
+  {% if last_updated %}
+  <p>Last updated on {{ last_updated | date('short') }}</p>
+  {% endif %}
+</div>
