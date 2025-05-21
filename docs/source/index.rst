@@ -57,3 +57,5 @@ Contents
    pida
    ror
    wikidata
+
+imprint
