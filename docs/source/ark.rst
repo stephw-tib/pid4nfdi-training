@@ -55,3 +55,6 @@ More information
 
   * A quick summary is provided by John Kunze and Donny Winston in “Getting started with ARK (Archival Resource Key) Persistent Identifiers” (2024): https://www.youtube.com/watch?v=-RkMGFCGRic 
 
+----
+
+Creator: Stephanie Hagemann-Wilholt (https://orcid.org/0000-0002-0474-2410)
