@@ -27,3 +27,6 @@ Additionally, the `PID Guide Toolkit <https://www.pidwijzer.nl/en/pid-guide-meth
 
 A PID Selection Guide tailored for the NFDI (National Research Data Infrastructure) is planned for the PID4NFDI integration phase (January 2025-December 2026).
 
+----
+
+Creator: Stephanie Hagemann-Wilholt (https://orcid.org/0000-0002-0474-2410)
