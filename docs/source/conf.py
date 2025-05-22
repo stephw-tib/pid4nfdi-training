@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx_last_updated_by_git',
 ]
 
 intersphinx_mapping = {
@@ -30,13 +31,8 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+html_last_updated_fmt = '%b %d, %Y'
 
 # -- Options for EPUB output
+
 epub_show_urls = 'footnote'
-
-extensions = [
-    'sphinx_last_updated_by_git',
-]
-
-html_last_updated_fmt = '%b %d, %Y'
-html_last_updated_in_footer = True 
