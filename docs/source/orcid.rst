@@ -101,9 +101,9 @@ ORCID provides various channels for contact and feedback:
 
 ----
 
-Creator: Stephanie Hagemann-Wilholt, https://orcid.org/0000-0002-0474-2410
+Creator: Stephanie Hagemann-Wilholt (https://orcid.org/0000-0002-0474-2410)
 
-Reviewer: Nelli Taller, https://orcid.org/0000-0002-7992-5668
+Reviewer: Nelli Taller (https://orcid.org/0000-0002-7992-5668)
 
 .. toctree::
 
