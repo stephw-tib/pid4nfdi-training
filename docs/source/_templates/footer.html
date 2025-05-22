@@ -5,5 +5,8 @@
   <hr />
   <div class="footer-custom" style="text-align: center; font-size: small; padding-top: 0.5em;">
      <p><a href="{{ pathto('imprint', 1) }}.html">Imprint</a></p>
+      {% if last_updated %}
+       <p>Last updated: {{ last_updated }}</p>
+     {% endif %}
   </div>
 {% endblock %}
