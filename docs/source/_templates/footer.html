@@ -4,9 +4,6 @@
   {{ super() }}
   <hr />
   <div class="footer-custom" style="text-align: center; font-size: small; padding-top: 0.5em;">
-    {% if last_updated %}
-      <p>Last updated: {{ last_updated }}</p>
-    {% endif %}
-    <p><a href="{{ pathto('imprint', 1) }}">Impressum</a></p>
+     <p><a href="{{ pathto('imprint', 1) }}">Impressum</a></p>
   </div>
 {% endblock %}
