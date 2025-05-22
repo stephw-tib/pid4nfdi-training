@@ -99,6 +99,11 @@ ORCID provides various channels for contact and feedback:
   * You have questions regarding the German ORCID DE consortium? Please contact the ORCID team at Technische Informationsbibliothek (TIB): `Kontakt <https://www.orcid-de.org/kontakt>`_
   * I have ideas and suggestions for improvement to ORCID: Give `Feedback <https://info.orcid.org/give-feedback/>`_ to ORCID
 
+----
+
+*Creator: Stephanie Hagemann-Wilholt, https://orcid.org/0000-0002-0474-2410*
+
+*Reviewer: Nelli Taller, https://orcid.org/0000-0002-7992-5668*
 
 .. toctree::
 
