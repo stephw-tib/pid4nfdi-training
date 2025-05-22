@@ -65,3 +65,6 @@ Who do I contact to find out more about IGSN IDs?
 
 Please send all questions concerning DataCite membership and IGSN ID registration to: support@datacite.org. If you wish to join the IGSN e.V. or learn about its disciplinary CoPs, then please email: info@igsn.org. 
 
+----
+
+Creators: Torsten Kahlert (https://orcid.org/0009-0003-3264-5006), Rorie Edmunds
