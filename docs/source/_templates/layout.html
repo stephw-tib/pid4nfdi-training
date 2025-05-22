@@ -4,7 +4,10 @@
   {{ super() }}
 
   <hr />
-  <p style="text-align: center; color: green;">Test-Zusatz im Footer ✅</p>
-  <p style="text-align: center;">Last updated: {{ last_updated }}</p>
-  <p style="text-align: center;"><a href="{{ pathto('imprint', 1) }}.html">Impressum</a></p>
+  <div style="text-align: center; font-size: small; padding-top: 0.5em;">
+    {% if last_updated %}
+      <p>Last updated: {{ last_updated }}</p>
+    {% endif %}
+    <p><a href="{{ pathto('imprint', 1) }}">Imprint</a></p>
+  </div>
 {% endblock %}
