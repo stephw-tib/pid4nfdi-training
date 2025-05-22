@@ -58,8 +58,4 @@ Contents
    pida
    ror
    wikidata
-
-.. toctree::
-   :hidden:
-
    imprint
