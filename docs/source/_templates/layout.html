@@ -1,1 +1,10 @@
-{# layout.html: reserved for potential layout changes #}
+{% extends "!layout.html" %}
+
+{% block footer %}
+  {{ super() }}
+
+  <hr />
+  <p style="text-align: center; color: green;">Test-Zusatz im Footer ✅</p>
+  <p style="text-align: center;">Last updated: {{ last_updated }}</p>
+  <p style="text-align: center;"><a href="{{ pathto('imprint', 1) }}.html">Impressum</a></p>
+{% endblock %}
