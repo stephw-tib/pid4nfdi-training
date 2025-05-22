@@ -41,6 +41,7 @@ PIDs play a crucial role in supporting the `FAIR principles <https://doi.org/10.
   **4. Reusable:**
    PIDs ensure that resources can be reliably cited, tracked, and referenced in academic and research contexts. They support reuse by making sure the resource is consistently identified over time, regardless of where or how it is stored. Metadata linked to PIDs also often includes licensing and versioning information, which clarifies how the resource can be reused.
 
+... dummy update for RTD build trigger
 
 Contents
 --------
