@@ -1,1 +1,12 @@
-{# footer.html intentionally left empty to avoid overriding default footer #}
+{% extends "!footer.html" %}
+
+{% block contentinfo %}
+  {{ super() }}
+  <hr />
+  <div class="footer-custom" style="text-align: center; font-size: small; padding-top: 0.5em;">
+     <p><a href="{{ pathto('imprint', 1) }}">Imprint</a></p>
+     {% if last_updated %}
+       <p>Last updated: {{ last_updated }}</p>
+     {% endif %}
+  </div>
+{% endblock %}
