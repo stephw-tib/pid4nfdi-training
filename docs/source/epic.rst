@@ -41,3 +41,7 @@ Contact
 -------
 
 If you have a project for which PIDs need to be generated, please contact support@pidconsortium.eu.
+
+----
+
+Creators: Torsten Kahlert (https://orcid.org/0009-0003-3264-5006), Jana Böhm (https://orcid.org/0009-0004-9802-113X)
