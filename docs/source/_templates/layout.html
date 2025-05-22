@@ -1,1 +1,13 @@
+{% extends "!layout.html" %}
 
+{% block footer %}
+  {{ super() }}
+
+  <hr />
+  <div style="text-align: center; font-size: small; padding-top: 0.5em;">
+    {% if last_updated %}
+      <p>Last updated: {{ last_updated }}</p>
+    {% endif %}
+    <p><a href="{{ pathto('imprint', 1) }}">Imprint</a></p>
+  </div>
+{% endblock %}
