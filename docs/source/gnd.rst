@@ -55,3 +55,7 @@ What costs are charged for use?
 -------------------------------
 
 The use of GND-IDs is generally free of charge. However, contributing to or directly accessing GND services may involve collaboration agreements with the German National Library or its partners, which might come with administrative or operational costs depending on the scope of your participation.
+
+----
+
+Creator: Torsten Kahlert (https://orcid.org/0009-0003-3264-5006)
