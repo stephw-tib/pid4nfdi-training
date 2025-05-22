@@ -9,3 +9,7 @@ PIDA is a service developed and offered by the Helmholtz Metadata Collaboration,
 The service includes features such as content negotiation, making it particularly useful for managing and referencing digital resources like ontologies.
 
 For more information: https://helmholtz-metadaten.de/de/werkzeuge/pida
+
+----
+
+Creator: Torsten Kahlert (https://orcid.org/0009-0003-3264-5006)
