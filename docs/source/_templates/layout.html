@@ -2,7 +2,10 @@
 
 {% block footer %}
   {{ super() }}
+
+  <hr style="margin-top: 1em;" />
   <div style="text-align: center; font-size: small; padding-top: 1em;">
-    <a href="{{ pathto('imprint', 1) }}">Imprint</a>
+    <p>Last updated: {{ last_updated }}</p>
+    <a href="{{ pathto('imprint', 1) }}">Impressum</a>
   </div>
 {% endblock %}
