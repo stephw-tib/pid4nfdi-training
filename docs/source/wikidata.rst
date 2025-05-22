@@ -18,3 +18,7 @@ Check for Duplicates: Before creating a new item, search using the "item by titl
 * This streamlined process helps maintain an organized and comprehensive knowledge base.
 
 More information: `<https://www.wikidata.org/wiki/Wikidata:Introduction>`_
+
+----
+
+Creator: Torsten Kahlert (https://orcid.org/0009-0003-3264-5006)
