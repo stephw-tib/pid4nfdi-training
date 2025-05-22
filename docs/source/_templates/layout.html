@@ -3,9 +3,8 @@
 {% block footer %}
   {{ super() }}
 
-  <hr style="margin-top: 1em;" />
-  <div style="text-align: center; font-size: small; padding-top: 1em;">
-    <p>Last updated: {{ last_updated }}</p>
-    <a href="{{ pathto('imprint', 1) }}">Impressum</a>
-  </div>
+  <hr />
+  <p style="text-align: center; color: green;">Test-Zusatz im Footer ✅</p>
+  <p style="text-align: center;">Last updated: {{ last_updated }}</p>
+  <p style="text-align: center;"><a href="{{ pathto('imprint', 1) }}">Impressum</a></p>
 {% endblock %}
