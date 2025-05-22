@@ -1,5 +1,12 @@
-<div class="footer">
-  {% if last_updated %}
-  <p>Last updated on {{ last_updated }}</p>
-  {% endif %}
-</div>
+{% extends "!footer.html" %}
+
+{% block contentinfo %}
+  {{ super() }}
+  <hr />
+  <div class="footer-custom" style="text-align: center; font-size: small; padding-top: 0.5em;">
+    {% if last_updated %}
+      <p>Last updated: {{ last_updated }}</p>
+    {% endif %}
+    <p><a href="{{ pathto('imprint', 1) }}">Impressum</a></p>
+  </div>
+{% endblock %}
