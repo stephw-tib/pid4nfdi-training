@@ -65,3 +65,9 @@ For more FAQ see: `<https://ror.org/about/faqs/>`_
 Roadmap
 -------
 ROR provides transparent information on planned feature development, modifications of its data model and bug fixing on its roadmap: `<https://github.com/ror-community/ror-roadmap/issues>`_
+
+----
+
+Creator: Torsten Kahlert (https://orcid.org/0009-0003-3264-5006) 
+
+Reviewer: Nelli Taller (https://orcid.org/0000-0002-7992-5668)
