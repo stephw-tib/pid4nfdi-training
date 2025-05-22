@@ -87,3 +87,5 @@ Direct registration of metadata XML:
 
 The Crossref Documentation provides further `guidance <https://www.crossref.org/documentation/register-maintain-records/choose-content-registration-method/>`_ on choosing the appropriate method for your registration workflow.
 
+----
+Creators: Torsten Kahlert (https://orcid.org/0009-0003-3264-5006), Stephanie Hagemann-Wilholt (https://orcid.org/0000-0002-0474-2410)
