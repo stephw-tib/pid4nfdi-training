@@ -59,3 +59,7 @@ Contents
    ror
    wikidata
 
+.. toctree::
+   :hidden:
+
+   imprint
