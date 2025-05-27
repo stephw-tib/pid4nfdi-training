@@ -29,4 +29,4 @@ A PID Selection Guide tailored for the NFDI (National Research Data Infrastructu
 
 ----
 
-Creator: Stephanie Hagemann-Wilholt (https://orcid.org/0000-0002-0474-2410)
+Creator: Stephanie Hagemann-Wilholt (https://orcid.org/0000-0002-0474-2410), Torsten Kahlert (https://orcid.org/0009-0003-3264-5006)
