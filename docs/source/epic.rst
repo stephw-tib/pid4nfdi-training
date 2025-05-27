@@ -17,15 +17,15 @@ format ``21.xxxx/xxxx``. Prefixes are often assigned per institution, with each 
 this namespace. Thanks to the combination of prefix and suffix, any handle is globally unique within the context of the
 Handle System.
 
-Key features and common use-cases
+Key features
 ---------------------------------
 Key features and common use-cases of the ePIC Service include, but are not limited to:
 
 - **Flexible Metadata Schema and Research Entities**: The ePIC PID Service does not preset a provider-specified metadata schema. Hence, ePIC PIDs can be assigned to any kind of research entities. Infrastructure managers have the possibility to register a metadata schema tailored to their use-case. The `ePIC Data Type Registry <https://typeregistry.lab.pidconsortium.net/>`_ is a typing service which can be used to define and openly register the metadata attributes of the PID.
 
-- **PIDs for unpublished data**: ePIC PIDs can be assigned to data before being published. Another PID, such as DOI, can be additionally assigned at publication time, if desired.
+- **Support the whole research data life cycle**: ePIC PIDs support the whole research data lifecycle from creation till archiving: ePIC PIDs can be assigned to data when created, even before the data being published. This PID can also be used later for publishing or in data archiving systems. Using ePIC PIDs, the objects can have the same high-quality persistent identifier for the whole lifecycle.
 
-- **Large numbers of PIDs**: Due to it's cost model, the ePIC service allows for cost-efficient PID assignment especially if large numbers of PIDs are generated.
+- **Large numbers of PIDs**: Due to it's cost model, the ePIC service allows for cost-efficient PID assignment also if large numbers of PIDs are generated.
 
 How do I set up infrastructure to assign ePIC PIDs?
 ---------------------------------------------------
