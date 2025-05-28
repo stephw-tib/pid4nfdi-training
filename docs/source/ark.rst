@@ -45,6 +45,12 @@ How does an ARK look like? Here is an example of the structure:
 
 ARKs are designed to be human- and machine-readable, making them versatile for use across various systems. The identifier does not require any metadata, but supports the usage of multiple schemata. This design is intended to allow the registration of ARKs at every lifecycle stage of an entity and at every granularity level. For further information, please see overview of `features <https://arks.org/about/ark-features/>`_.
 
+What are the Advantages of ARK Identifiers?
+-------------------------------------------
+ARKs offer flexibility: Organizations can create and manage ARKs using open-source tools, without depending on centralized systems, while still enabling global resolution. They support multiple metadata formats and can be customized with additional information, making them useful across various use cases. ARKs can be assigned to anything from digital files and physical artifacts to conceptual entities.
+
+ARKs are cost-efficient: There are no fees for registering or maintaining ARKs, which lowers financial barriers and makes PIDs more accessible to a wide range of institutions and communities.
+
 
 More information
 ----------------
