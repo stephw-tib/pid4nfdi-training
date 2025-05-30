@@ -55,5 +55,6 @@ Contents
    igsn
    orcid
    pida
+   pidinst
    ror
    wikidata
