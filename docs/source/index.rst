@@ -47,6 +47,9 @@ Contents
 
 .. toctree::
    choose
+   :caption: PID Types
+   :maxdepth: 1
+
    ark
    doi
    epic
