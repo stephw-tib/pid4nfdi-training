@@ -4,7 +4,6 @@ Wikidata ID
 What is Wikidata ID?
 --------------------
 
-
 The Wikidata ID is a unique identifier assigned to each entity in Wikidata, a free and collaborative knowledge base. These identifiers, which begin with a "Q" followed by a number (e.g., Q42 for `Douglas Adams <https://www.wikidata.org/wiki/Q42>`), allow for precise referencing of concepts, people, places, and more across various datasets and systems. Wikidata IDs facilitate linking and integrating structured data, enabling interoperability and accessibility across multiple platforms and applications.
 
 How to create a new Wikidata item?
