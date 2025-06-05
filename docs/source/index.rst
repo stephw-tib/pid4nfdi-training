@@ -58,3 +58,9 @@ Contents
    pidinst
    ror
    wikidata
+
+.. toctree::
+   :hidden:
+
+   extra-pages
+
