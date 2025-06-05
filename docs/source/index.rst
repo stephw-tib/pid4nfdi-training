@@ -58,8 +58,3 @@ Contents
    pidinst
    ror
    wikidata
-
-.. toctree::
-   :hidden:
-
-   imprint
