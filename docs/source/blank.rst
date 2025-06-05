@@ -1,3 +1,4 @@
-.. raw:: html
+..
+   This page exists only to add spacing in the menu.
 
-   <div style="margin: 1em 0;"></div>
+======
