@@ -46,10 +46,13 @@ Contents
 --------
 
 .. toctree::
-   choose
-   :caption: PID Types
+   :caption: Introduction
    :maxdepth: 1
+   choose
 
+.. toctree::
+   :caption: PID Types / Provider
+   :maxdepth: 1
    ark
    doi
    epic
@@ -62,5 +65,7 @@ Contents
    ror
    wikidata
 
-   blank <blank>
+.. toctree::
+   :caption: Website Information
+   :maxdepth: 1
    imprint
