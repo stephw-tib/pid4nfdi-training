@@ -1,1 +1,7 @@
-{# footer override intentionally left empty to avoid conflicts #}
+{# 
+{% extends "!footer.html" %}
+
+{% block contentinfo %}
+  {{ super() }}
+{% endblock %}
+#}
