@@ -62,5 +62,5 @@ Contents
 .. toctree::
    :hidden:
 
-   extra-pages
+   imprint
 
