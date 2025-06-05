@@ -48,11 +48,13 @@ Contents
 .. toctree::
    :caption: Introduction
    :maxdepth: 1
+
    choose
 
 .. toctree::
    :caption: PID Types / Provider
    :maxdepth: 1
+
    ark
    doi
    epic
@@ -68,4 +70,5 @@ Contents
 .. toctree::
    :caption: Website Information
    :maxdepth: 1
+
    imprint
