@@ -37,3 +37,11 @@ html_last_updated_fmt = '%b %d, %Y'
 # -- Options for EPUB output
 
 epub_show_urls = 'footnote'
+
+# Force Sphinx to include the imprint page without it appearing in toctree
+from sphinx.application import Sphinx
+
+def setup(app: Sphinx):
+    app.add_config_value('extra_docs', [], 'env')
+
+extra_docs = ['imprint']
