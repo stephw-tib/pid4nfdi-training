@@ -7,7 +7,7 @@ Different PID providers—i.e., services that offer the infrastructure for PID r
 
 Some identifier systems are more widely used in specific research fields than others. Additionally, existing PID registration practices within an organization, memberships with specific PID providers, or the technical infrastructure already in use can influence the decision to adopt a particular PID system.
 
-For a comprehensive and continuously expanding overview of PID providers, please visit our knowledge base: http://pid.services.base4nfdi.de/get-pid/services-provider/ 
+For a comprehensive and continuously expanding overview of PID providers, please visit our knowledge base: https://pid.services.base4nfdi.de/get-pid/providers/ 
 
 A general checklist on choosing a PID system
 ---------------------------------------------
