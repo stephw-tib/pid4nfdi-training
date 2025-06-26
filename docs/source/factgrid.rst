@@ -4,7 +4,7 @@ FactGrid - A database for historians
 What is FactGrid? What is special about the service?
 ----------------------------------------------------
 
-FactGrid is a specialized Wikibase platform tailored for academic research, leveraging software initially developed for Wikimedia's Wikidata project. It enables researchers to manage and interlink data with flexibility beyond traditional relational databases. Users can define and customize objects ("items") and their properties, facilitating diverse and complex data structures.
+`FactGrid <https://database.factgrid.de/wiki/Hauptseite>`_ is a specialized Wikibase platform tailored for academic research, leveraging software initially developed for Wikimedia's Wikidata project. It enables researchers to manage and interlink data with flexibility beyond traditional relational databases. Users can define and customize objects ("items") and their properties, facilitating diverse and complex data structures.
 
 The platform is designed for multilingual collaboration, allowing users from various linguistic backgrounds to work on shared objects, each described in their respective languages.
 
