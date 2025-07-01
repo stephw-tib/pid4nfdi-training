@@ -73,3 +73,4 @@ Contents
 
    imprint
    privacy
+   accessibility
