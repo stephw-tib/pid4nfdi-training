@@ -72,3 +72,4 @@ Contents
    :maxdepth: 1
 
    imprint
+   privacy
