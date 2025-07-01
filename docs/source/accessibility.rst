@@ -29,7 +29,7 @@ To 3:
   * Photos, graphics, images partly have no text descriptions.
   * PDF documents are not created barrier-free.
 
-The website is being adapted and optimized to comply with the EU Directive 2016/2102 on the implementation of a barrier-free Internet for public sector bodies. The identified deficits and deficiencies are currently undergoing a continuous improvement process that will be successively processed
+The website is being adapted and optimized to comply with the EU Directive 2016/2102 on the implementation of a barrier-free Internet for public sector bodies. The identified deficits and deficiencies are currently undergoing a continuous improvement process that will be successively processed.
 
 
 Establishment of this Accessibility Statement
@@ -43,6 +43,7 @@ Feedback and contact details
 ----------------------------
 
 You can report cases of non-compliance with accessibility requirements to us.
+
 Contact:
 
 | Technische Informationsbibliothek (TIB)
