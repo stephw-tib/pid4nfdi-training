@@ -35,10 +35,10 @@ The data protection officer of the controller shall be:
 **Postal address:**
 
 | Technische Informationsbibliothek (TIB)
-|  data protection officer
-|  Welfengarten 1 B
-|  30167 Hannover
-|  Germany
+| data protection officer
+| Welfengarten 1 B
+| 30167 Hannover
+| Germany
 
 
 Any data subject may contact our data protection officer directly regarding any and all questions and suggestions regarding data protection at any time.
@@ -51,6 +51,7 @@ Users may register for services via TIB’s web pages. When registering for and 
 Which data is collected depends on the service. The legal basis for the collection of such data shall be the Terms of use of the TIB, the Special Conditions applicable to the respective service, or the consent given by the user. For further information, please refer to the information sheets on data protection provided for the respective services offered by the TIB.
 
 **TIB services with registration:**
+
 e.g.
   * `Registration for the local use of the TIB (library card) <https://opac.tib.eu/DB=1/LNG=DU/SID=d19ae0a0-0/LNG=EN/>`_
   * `Registration for the TIB Document Delivery <https://www.tib.eu/en/register>`_
