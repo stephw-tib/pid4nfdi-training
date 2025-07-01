@@ -36,4 +36,5 @@ Editorial Office
 Responsible for the content according to § 18 Abs. 2 MStV:
 
 Dr Torsten Kahlert; Email: torsten.kahlert@tib.eu 
+
 Dr Stephanie Hagemann-Wilholt; Email: stephanie.hagemann@tib.eu 
