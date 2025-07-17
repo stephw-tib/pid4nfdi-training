@@ -7,11 +7,13 @@
   <div style="text-align: center; font-size: small; padding-top: 0.5em;">
     {% if last_updated %}
       <p>Last updated: {{ last_updated }}</p>
-    	{% endif %}
+    {% endif %}
+    <p><a href="{{ pathto('imprint') }}">Imprint</a></p>
 
-        <div style="margin-top: 1em;">
+    <div style="margin-top: 1em;">
       <!-- Logos -->
-      <img src="{{ pathto('_static/Logo_DFG_en.jpg', 1) }}" alt="DFG Logo" height="40" style="margin: 0 10px;" />
-      <img src="{{ pathto('_static/Logo_base4NFDI_kurz.png', 1) }}" alt="Base4NFDI Logo" height="40" style="margin: 0 10px;" />
+      <img src="_static/Logo_DFG_en.jpg" alt="DFG Logo" height="40" style="margin: 0 10px;" />
+      <img src="_static/Logo_base4NFDI_kurz.png" alt="Base4NFDI Logo" height="40" style="margin: 0 10px;" />
+    </div>
   </div>
 {% endblock %}
