@@ -11,6 +11,10 @@ The cookbook is an initiative of the `PID4NFDI project <https://pid.services.bas
    This cookbook is work in progress and will continuously grow. 
 
 
+.. image:: _static/Logo_base4NFDI_kurz.png
+   :alt: Base4NFDI Logo
+   :width: 300px
+   :align: center
 
 
 Contents
