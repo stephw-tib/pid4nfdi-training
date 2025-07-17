@@ -10,7 +10,7 @@ An ARK looks like `ark:12148/btv1b8449691v/f29 <https://gallica.bnf.fr/ark:/1214
 How can I create ARKs?
 ----------------------
 
-To get started, `request a NAAN <https://docs.google.com/forms/d/e/1FAIpQLSfd1CX6idwLB47g8OGKUG654auV8IU8yI7DAs61cXGOoFDn0g/closedform>`_ for your organization and you should hear back from the ARK Alliance (`arks.org <https://arks.org/>`_) within about 2 business days. Once you have a unique 5-digit NAAN, you can assign and publicize your ARKs with as much autonomy as you assign URLs. There are no fees. Except for redirection via `N2T.net <https://n2t.net/>`_, NAAN maintenance, and documentation, there are no other services from the ARK Alliance.
+To get started, `request a NAAN <https://docs.google.com/forms/d/e/1FAIpQLSf_847hNXtLGikR-XeDy1uT1AKd24DpHnt5UQh2i8ORRu7u-w/viewform>`_ for your organization and you should hear back from the ARK Alliance (`arks.org <https://arks.org/>`_) within about 2 business days. Once you have a unique 5-digit NAAN, you can assign and publicize your ARKs with as much autonomy as you assign URLs. There are no fees. Except for redirection via `N2T.net <https://n2t.net/>`_, NAAN maintenance, and documentation, there are no other services from the ARK Alliance.
 
 
 History and Community
