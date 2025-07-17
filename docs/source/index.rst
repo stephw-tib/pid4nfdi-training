@@ -6,7 +6,7 @@ It offers practical guidance on first steps for individuals and organiziations l
 
 The cookbook is an initiative of the `PID4NFDI project <https://pid.services.base4nfdi.de/>`_ to set up a basic service for Persistent Identifiers (PID) for the member consortia of the German `National Research Data Infrastructure (NFDI) <https://www.nfdi.de/?lang=en>`_ – a joint project of research and infrastructure institutions to optimise research data management within the German research landscape.
 
-The PID4NFDI project is funded as part of `Base4NFDI <https://base4nfdi.de/>`_. Grant number: `521453681 <https://gepris.dfg.de/gepris/projekt/521453681?language=en>`_
+The PID4NFDI project is funded as part of `Base4NFDI <https://base4nfdi.de/>`_. DFG Grant number: `521453681 <https://gepris.dfg.de/gepris/projekt/521453681?language=en>`_
 
 .. note::
 
