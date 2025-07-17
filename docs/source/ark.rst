@@ -1,12 +1,16 @@
 ARK - Archival Resource Key
 ===========================
 
-What is ARK?
+What is an ARK?
 ------------
+ARK identifiers are globally unique PIDs that are openly available and can be assigned by any institution that commits to their persistence. Since 2001 the identifiers have been agnostic to resource type and have been applied to datasets, texts, physical artifacts, persons, vocabulary terms, etc. They also support different levels of granularity, as well as containment and variant relationships (see: Structure and Features).
 
-ARK identifiers are decentralised managed PIDs that are openly available and can be assigned by any institution. The identifiers are agnostic to the resource type. They can be applied to datasets, texts, artifacts, persons etc. on different levels of granularity: e.g. they also support identifying subsets of resources (see: Structure and Features).
+An ARK looks like `ark:12148/btv1b8449691v/f29 <https://gallica.bnf.fr/ark:/12148/btv1b8449691v/f29>`_, where the 12148/ prefix is a Name Assigning Authority Number (NAAN) and the rest is the assigned name. This is a compact ARK from the National Library of France that identifies page 29 of a medieval manuscript. To make a compact ARK actionable, a resolver is prepended (see the underlying hyperlink). ARKs are resolved (served) by either the local organizational server or the global `N2T.net <https://n2t.net/>`_ resolver.
 
-ARKs are commonly utilized by GLAM institutions. Each institution generating ARKs has the flexibility to establish its own policies and services. As a decentralized service, ARK does not maintain a comprehensive registry of all ARK identifiers in use. These identifiers can also serve purely internal purposes within databases. However, it is estimated that over 8 billion ARKs are currently publicly discoverable.
+How can I create ARKs?
+----------------------
+
+To get started, `request a NAAN <https://docs.google.com/forms/d/e/1FAIpQLSfd1CX6idwLB47g8OGKUG654auV8IU8yI7DAs61cXGOoFDn0g/closedform>`_ for your organization and you should hear back from the ARK Alliance (`arks.org <https://arks.org/>`_) within about 2 business days. Once you have a unique 5-digit NAAN, you can assign and publicize your ARKs with as much autonomy as you assign URLs. There are no fees. Except for redirection via `N2T.net <https://n2t.net/>`_, NAAN maintenance, and documentation, there are no other services from the ARK Alliance.
 
 
 History and Community
