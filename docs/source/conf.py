@@ -35,6 +35,9 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 html_theme_path = ['_templates']
 html_last_updated_fmt = '%b %d, %Y'
+html_theme_options = {
+    'collapse_navigation': False,
+}
 
 # -- Options for EPUB output
 
