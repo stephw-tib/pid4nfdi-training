@@ -45,3 +45,9 @@ def setup(app: Sphinx):
     app.add_config_value('extra_docs', [], 'env')
 
 extra_docs = ['imprint']
+
+
+html_static_path = ['_static']
+html_css_files = [
+    'custom.css',
+]
