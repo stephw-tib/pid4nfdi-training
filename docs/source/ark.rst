@@ -13,12 +13,13 @@ How can I create ARKs?
 To get started, `request a NAAN <https://docs.google.com/forms/d/e/1FAIpQLSf_847hNXtLGikR-XeDy1uT1AKd24DpHnt5UQh2i8ORRu7u-w/viewform>`_ for your organization and you should hear back from the ARK Alliance (`arks.org <https://arks.org/>`_) within about 2 business days. Once you have a unique 5-digit NAAN, you can assign and publicize your ARKs with as much autonomy as you assign URLs. There are no fees. Except for redirection via `N2T.net <https://n2t.net/>`_, NAAN maintenance, and documentation, there are no other services from the ARK Alliance.
 
 
-History and Community
+Community and History
 ---------------------
+ARKs are commonly utilized by GLAM institutions and small publishers. There are over 1600 ARK organizations, each of which has the flexibility to establish its own policies and services. Because ARKs are decentralized, there is no comprehensive registry of all ARK identifiers in use. These identifiers can also serve purely internal purposes within databases. However, it is estimated that over 8 billion ARKs are currently publicly discoverable.
 
 ARK was launched in 2001 by the California Digital Library (CDL). In 2018, CDL partnered with LYRASIS (formerly DuraSpace), a collaboration that culminated in the establishment of the ARK Alliance in 2021. That same year, the Alliance joined the U.S. National Digital Stewardship Alliance (NDSA) as a member.
 
-Currently, ARK offers several social media channels and `discussion forums <https://arks.org/community/>`_ in English, French, and Spanish/Portuguese. Additionally, it facilitates various `working groups <https://arks.org/community-groups/>`_ focused on topics such as technical development, outreach, NAAN-related issues, and an Advisory Group.
+Currently, ARK offers several social media channels and `discussion forums <https://arks.org/community/>`_ in English, French, and Spanish/Portuguese. Additionally, it facilitates various `working groups <https://arks.org/community-groups/>`_ focused on topics such as technical development, outreach, NAAN-curation, and an Advisory Group.
 
 
 How to get an ARK?
