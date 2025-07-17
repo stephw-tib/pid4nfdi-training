@@ -7,7 +7,8 @@
   <div style="text-align: center; font-size: small; padding-top: 0.5em;">
     {% if last_updated %}
       <p>Last updated: {{ last_updated }}</p>
-    <p><a href="{{ pathto('imprint') }}">Imprint</a></p>
+    	{% endif %}
+
         <div style="margin-top: 1em;">
       <!-- Logos -->
       <img src="{{ pathto('_static/Logo_DFG_en.jpg', 1) }}" alt="DFG Logo" height="40" style="margin: 0 10px;" />
