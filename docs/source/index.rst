@@ -49,6 +49,7 @@ Contents
    :caption: Introduction
    :maxdepth: 1
 
+   PID-def
    choose
 
 .. toctree::
