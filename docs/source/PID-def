@@ -1,2 +1,7 @@
 What is a PID?
 ==============
+
+A PID (Persistent Identifier) is a long-lasting reference that provides unique identification of research resources, persons, institutions, projects, devices and many more. Unlike regular URLs, 
+which can break or change, PIDs are designed to be stable over time, 
+ensuring consistent access to the associated content.
+
