@@ -12,15 +12,16 @@ The PID4NFDI project is funded as part of `Base4NFDI <https://base4nfdi.de/>`_. 
 
    <div style="text-align: center; margin-top: 1em;">
      <a href="https://www.dfg.de/" target="_blank" style="display: inline-block; margin: 0 20px;">
-       <img src="_static/Logo_DFG_en.jpg" alt="DFG Logo" height="30">
+       <img src="_static/Logo_DFG_en.jpg" alt="DFG Logo" style="height: 30px; max-width: 120px;">
      </a>
      <a href="https://base4nfdi.de/" target="_blank" style="display: inline-block; margin: 0 20px;">
-       <img src="_static/Logo_base4NFDI_kurz.png" alt="Base4NFDI Logo" height="30">
+       <img src="_static/Logo_base4NFDI_kurz.png" alt="Base4NFDI Logo" style="height: 30px; max-width: 120px;">
      </a>
      <a href="https://www.nfdi.de/" target="_blank" style="display: inline-block; margin: 0 20px;">
-       <img src="_static/Logo_nfdi.png" alt="NFDI Logo" height="30">
+       <img src="_static/Logo_nfdi.png" alt="NFDI Logo" style="height: 30px; max-width: 120px;">
      </a>
    </div>
+
 
 
 
