@@ -5,6 +5,9 @@ build:
   tools:
     python: "3.10"
 
+clone:
+    depth: full
+    
 python:
   install:
     - requirements: docs/requirements.txt
