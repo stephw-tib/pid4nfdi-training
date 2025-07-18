@@ -20,7 +20,7 @@ The PID4NFDI project is funded as part of `Base4NFDI <https://base4nfdi.de/>`_. 
        <img src="_static/Logo_base4NFDI_kurz.png" alt="Base4NFDI Logo" height="30">
      </a>
      <a href="https://www.nfdi.de/" target="_blank" style="display: inline-block; margin: 0 20px;">
-       <img src="_static/nfdi_logo.png" alt="NFDI Logo" height="30">
+       <img src="_static/Logo_nfdi.png" alt="NFDI Logo" height="30">
      </a>
    </div>
 
