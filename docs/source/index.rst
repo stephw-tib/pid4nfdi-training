@@ -61,3 +61,18 @@ Contents
    imprint
    privacy
    accessibility
+
+.. raw:: html
+
+   <script>
+     document.addEventListener("DOMContentLoaded", function () {
+       const links = document.querySelectorAll('a[target="_blank"]');
+       links.forEach(link => {
+         const rel = link.getAttribute('rel') || "";
+         if (!rel.includes("noopener")) {
+           link.setAttribute('rel', (rel + " noopener noreferrer").trim());
+         }
+       });
+     });
+   </script>
+
