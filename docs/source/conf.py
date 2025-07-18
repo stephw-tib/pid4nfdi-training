@@ -33,7 +33,6 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-html_theme_path = ['_templates']
 html_last_updated_fmt = '%b %d, %Y'
 
 # -- Options for EPUB output
