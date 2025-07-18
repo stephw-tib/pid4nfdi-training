@@ -10,8 +10,6 @@ The PID4NFDI project is funded as part of `Base4NFDI <https://base4nfdi.de/>`_. 
 
 .. raw:: html
 
-   .. raw:: html
-
    <div style="text-align: center; margin-top: 1em;">
      <a href="https://www.dfg.de/" target="_blank" style="display: inline-block; margin: 0 20px;">
        <img src="_static/Logo_DFG_en.jpg" alt="DFG Logo" height="30">
