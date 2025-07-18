@@ -8,17 +8,17 @@ The cookbook is an initiative of the `PID4NFDI project <https://pid.services.bas
 
 The PID4NFDI project is funded as part of `Base4NFDI <https://base4nfdi.de/>`_. DFG Grant number: `521453681 <https://gepris.dfg.de/gepris/projekt/521453681?language=en>`_
 
-.. image:: _static/Logo_DFG_en.jpg
-   :alt: Logo DFG
-   :height: 40px
-   :target: https://www.dfg.de/
-   :align: center
+.. raw:: html
 
-.. image:: _static/Logo_base4NFDI_kurz.png
-   :alt: Logo BASE4NFDI
-   :height: 40px
-   :target: https://base4nfdi.de/
-   :align: center
+   <div style="text-align: center; margin-top: 1em;">
+     <a href="https://www.dfg.de/" target="_blank" style="display: inline-block; margin: 0 20px;">
+       <img src="_static/Logo_DFG_en.jpg" alt="DFG Logo" height="40">
+     </a>
+     <a href="https://base4nfdi.de/" target="_blank" style="display: inline-block; margin: 0 20px;">
+       <img src="_static/Logo_base4NFDI_kurz.png" alt="Base4NFDI Logo" height="40">
+     </a>
+   </div>
+
 
 
 .. note::
