@@ -3,14 +3,19 @@ ARK - Archival Resource Key
 
 What is an ARK?
 ------------
-ARK identifiers are globally unique PIDs that are openly available and can be assigned by any institution that commits to their persistence. Since 2001 the identifiers have been agnostic to resource type and have been applied to datasets, texts, physical artifacts, persons, vocabulary terms, etc. They also support different levels of granularity, as well as containment and variant relationships (see: Structure and Features).
+ARK identifiers are globally unique PIDs that are openly available and can be assigned by any institution that commits to their persistence. Since 2001 these identifiers have been agnostic to resource type and have been used to cite datasets, texts, physical artifacts, persons, vocabulary terms, etc. They also support different levels of granularity, as well as containment and variant relationships (see: Structure and Features). A compact ARK looks like
 
-An ARK looks like `ark:12148/btv1b8449691v/f29 <https://gallica.bnf.fr/ark:/12148/btv1b8449691v/f29>`_, where the 12148/ prefix is a Name Assigning Authority Number (NAAN) and the rest is the assigned name. This is a compact ARK from the National Library of France that identifies page 29 of a medieval manuscript. To make a compact ARK actionable, a resolver is prepended (see the underlying hyperlink). ARKs are resolved (served) by either the local organizational server or the global `N2T.net <https://n2t.net/>`_ resolver.
+`ark:/12148/btv1b8449691v/f29 <https://gallica.bnf.fr/ark:/12148/btv1b8449691v/f29>`_
+
+where the 12148/ prefix is a Name Assigning Authority Number (NAAN) and the rest is the assigned name. The full ARK is created by prepending a resolver such as https://n2t.net/ to the compact ARK, which is used to make the above hyperlink actionable. This ARK is from the National Library of France, and identifies page 29 of a medieval manuscript. 
+
 
 How can I create ARKs?
 ----------------------
 
-To get started, `request a NAAN <https://docs.google.com/forms/d/e/1FAIpQLSf_847hNXtLGikR-XeDy1uT1AKd24DpHnt5UQh2i8ORRu7u-w/viewform>`_ for your organization and you should hear back from the ARK Alliance (`arks.org <https://arks.org/>`_) within about 2 business days. Once you have a unique 5-digit NAAN, you can assign and publicize your ARKs with as much autonomy as you assign URLs. There are no fees. Except for redirection via `N2T.net <https://n2t.net/>`_, NAAN maintenance, and documentation, there are no other services from the ARK Alliance.
+To get started, `request a NAAN <https://docs.google.com/forms/d/e/1FAIpQLSf_847hNXtLGikR-XeDy1uT1AKd24DpHnt5UQh2i8ORRu7u-w/viewform>`_ for your organization and you should hear back from the ARK Alliance (`arks.org <https://arks.org/>`_) within about 2 business days. Once you have a unique 5-digit NAAN, you can assign and publicize (issue, publish) your ARKs with as much autonomy as you assign URLs. There are no fees. Except for redirection via the N2T (Name to Thing) resolver `(n2t.net) <https://n2t.net/>`_, NAAN maintenance, and documentation, there are no other services from the ARK Alliance.
+
+Obtaining a NAAN for generating ARKs is free, and open-source software is available for minting ARKs and creating related metadata. The ARK Alliance provides information on `how to get started with ARKs <https://arks.org/about/getting-started-implementing-arks/>`_.
 
 
 Community and History
@@ -22,37 +27,39 @@ ARK was launched in 2001 by the California Digital Library (CDL). In 2018, CDL p
 Currently, ARK offers several social media channels and `discussion forums <https://arks.org/community/>`_ in English, French, and Spanish/Portuguese. Additionally, it facilitates various `working groups <https://arks.org/community-groups/>`_ focused on topics such as technical development, outreach, NAAN-curation, and an Advisory Group.
 
 
-How to get an ARK?
+ARK Resolution
 ------------------
 
-ARKs rely on distributed resolution through institutions that manage the Name Assigning Authority Numbers (NAAN). ARK is using the Name-to-Thing (N2T) resolver service hosted by CDL. N2T is identifier agnostic, supporting various identifier systems beyond ARKs, including handle-based DOIs. It functions as both a resolver and a meta-resolver by redirecting identifiers to appropriate targets, ensuring stable and persistent links across systems.
+The global resolver for ARKs is n2t.net, but its use is not required. Among PIDs, ARKs are atypical in that an organization can choose to publish its ARKs based either at either n2t.net or at its own local organizational server (resolver). An estimated 75% of ARKs in the world are based in local resolvers, knowing that n2t.net can be a backup in case their organizational domain name is at risk. The example ARK above is usually published as
 
-Obtaining a NAAN for generating ARKs is free, and open-source software is available for minting ARKs and creating related metadata. 
-The ARK Alliance provides information on `how to get started with ARKs <https://arks.org/about/getting-started-implementing-arks/>`_. 
+`https://gallica.bnf.fr/ark:/12148/btv1b8449691v/f29 <https://gallica.bnf.fr/ark:/12148/btv1b8449691v/f29>`_
+
+The core, globally unique identity of every ARK is its compact form, which helps persistence because no organization lasts forever. If need be, the compact ARK retains its identity when it is appended to a different resolver.
+
+As with all PIDs, the technical persistence mechanism for ARKs is web redirection. An unusual feature of the global ARK resolver, n2t.net, is that it extends its redirection services to hundreds of other identifier schemes (hence "ark" is not part of its name). This relieves users from having to remember 10 different resolver domain names for 10 different PID schemes. Instead, just remember the scheme prefix, such as "ark:", "handle:", or “pdb:” and append the compact identifier to n2t.net.
 
 
 Structure and Features
 ----------------------
-How does an ARK look like? Here is an example of the structure:
+What does an ARK look like? Here is an example of the structure:
 
 .. code-block:: console
 
-    https://n2t.net/ark:/12345/abc123/section1
+    `https://gallica.bnf.fr/ark:/12148/btv1b8449691v/f29 <https://gallica.bnf.fr/ark:/12148/btv1b8449691v/f29>`_
 
     Elements:
-    1. The Base URL begins with a resolver address: [https://n2t.net/]
-    2. The ARK Label indicates the identifier type [ark:]
-    3. The NAAN is assigned to the organization managing the identifier: [12345]
-    4. The Name or Local Identifier is a unique string representing the resource within the namespace of the managing organization: [abc123]
-    5. The Qualifier (optional) is an additional string used to  
-        a. refer to a specific version or subset of the resource: [section1]
-        b. contain further metadata information using a [?] suffix: e.g. http://example.org/ark:/12345/abcde?
+    1. The overall URL begins with a resolver address: [https://gallica.bnf.fr/]
+    2. The ARK Label indicates the identifier type [ark:/]
+    3. The NAAN is assigned to the organization (in this case, the BnF – Bibliothèque nationale de France) managing the identifier: [12148]
+    4. The Name or Local Identifier is a unique string, often opaque, representing the resource within the namespace of the managing organization: [btv1b8449691v]
+    5. The Qualifier (optional) is an additional string used to refer to a specific version or subpart of the resource (in this case, page 29): [f29]
 
-ARKs are designed to be human- and machine-readable, making them versatile for use across various systems. The identifier does not require any metadata, but supports the usage of multiple schemata. This design is intended to allow the registration of ARKs at every lifecycle stage of an entity and at every granularity level. For further information, please see overview of `features <https://arks.org/about/ark-features/>`_.
+
+ARKs have very flexible metadata, from none to arbitrarily rich metadata following multiple schemata. So you can assign an ARK to a thing before you create it, and add metadata as the thing matures. Many ARKs have metadata following the Dublin Core or DataCite schemas. This design is intended to allow the registration of ARKs at every lifecycle stage of an entity and at every granularity level. For further information, please see overview of `features <https://arks.org/about/ark-features/>`_.
 
 What are the Advantages of ARK Identifiers?
 -------------------------------------------
-ARKs offer flexibility: Organizations can create and manage ARKs using open-source tools, without depending on centralized systems, while still enabling global resolution. They support multiple metadata formats and can be customized with additional information, making them useful across various use cases. ARKs can be assigned to anything from digital files and physical artifacts to conceptual entities.
+ARKs offer flexibility: organizations can create and manage ARKs using open-source tools, without depending on centralized systems, while still enabling global resolution. They support multiple metadata formats and can be customized with additional information, making them useful across various use cases. ARKs can be assigned to anything from digital files and physical artifacts to conceptual entities.
 
 ARKs are cost-efficient: There are no fees for registering or maintaining ARKs, which lowers financial barriers and makes PIDs more accessible to a wide range of institutions and communities.
 
@@ -61,10 +68,10 @@ More information
 ----------------
 
   * The ARK Alliance provides comprehensive information on ARKs, their functionalities and community: https://arks.org/
-  * ARK identifiers Wiki with `FAQ <https://wiki.lyrasis.org/display/ARKs/ARK+Identifiers+FAQ>`_ 
-  * About the `N2T (meta) resolver service <https://legacy-n2t.n2t.net/e/about.html>`_
+  * ARK identifiers Wiki with `FAQ <https://arks.org/about/ark-faq-en/>`_ 
+  * About the `N2T (meta) resolver service <https://arks.org/about/n2t-global-resolver/>`_
 
-  * A quick summary is provided by John Kunze and Donny Winston in “Getting started with ARK (Archival Resource Key) Persistent Identifiers” (2024): https://www.youtube.com/watch?v=-RkMGFCGRic 
+  * A 30-minute summary is provided by John Kunze and Donny Winston in “Getting started with ARK (Archival Resource Key) Persistent Identifiers” (2024): https://www.youtube.com/watch?v=-RkMGFCGRic 
 
 ----
 
