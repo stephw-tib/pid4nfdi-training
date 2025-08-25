@@ -69,7 +69,7 @@ More information
 
   * The ARK Alliance provides comprehensive information on ARKs, their functionalities and community: https://arks.org/
   * ARK identifiers Wiki with `FAQ <https://arks.org/about/ark-faq-en/>`_ 
-  * About the `N2T (meta) resolver service <https://arks.org/about/n2t-global-resolver/>`_
+  * About the `N2T (meta-)resolver service <https://arks.org/about/n2t-global-resolver/>`_
 
   * A 30-minute summary is provided by John Kunze and Donny Winston in “Getting started with ARK (Archival Resource Key) Persistent Identifiers” (2024): https://www.youtube.com/watch?v=-RkMGFCGRic 
 
