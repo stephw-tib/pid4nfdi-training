@@ -25,7 +25,7 @@ Key features and common use-cases of the ePIC Service include, but are not limit
 
 - **Support the whole research data life cycle**: ePIC PIDs support the whole research data lifecycle from creation till archiving: ePIC PIDs can be assigned to data when created, even before the data being published. This PID can also be used later for publishing or in data archiving systems. Using ePIC PIDs, the objects can have the same high-quality persistent identifier for the whole lifecycle.
 
-- **Large numbers of PIDs**: Due to it's cost model, the ePIC service allows for cost-efficient PID assignment also if large numbers of PIDs are generated.
+- **PIDs for high-granular data**: Due to it's cost model, the ePIC service allows for cost-efficient PID assignment also if large numbers of PIDs are generated. This is particularly relevant if PIDs should be assigned at a high granularity level (for example, if PIDs are not only required at the dataset level, but also for elements within a dataset).
 
 How do I set up infrastructure to assign ePIC PIDs?
 ---------------------------------------------------
