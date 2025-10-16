@@ -41,7 +41,7 @@ Here’s a step-by-step guide to assigning PIDs to instruments:
 6.	**Assign the PID:** Use the provider’s platform or API to register the instrument, submit the metadata, and obtain a PID.
 7.	**Integrate and Use the PID:** Incorporate the PID into your data management systems, publications, and workflows to ensure consistent referencing.
 
-For detailed instructions, refer to the `DataCite Cookbook <https://docs.pidinst.org/en/latest/datacite-cookbook/index.html>`_, `the ePIC Cookbook <https://docs.pidinst.org/en/latest/epic-cookbook/index.html>`_ or the `B2INST User Guide <https://docs.eudat.eu/b2inst/forusers/>`_.
+For detailed instructions, refer to the `DataCite Cookbook <https://docs.pidinst.org/en/latest/datacite-cookbook/index.html>`_ or the `B2INST User Guide <https://docs.eudat.eu/b2inst/forusers/>`_.
 
 How do I Search for PIDs for instruments?
 -----------------------------------------
@@ -56,6 +56,10 @@ For ePIC, the PIDINST metadata schema has been adopted without modification. How
 With the new relation types `"IsCollectedBy" <https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/relationType/#iscollectedby>`_ and `"Collects" <https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/relationType/#collects>`_, DataCite made adjustments to allow interlinking instruments with datasets. However, as the DataCite Metadata Schema contains thirty different resource types, it has to maintain a certain degree of generality. Because of this, the `mapping of the PIDINST metadata schema to the DataCite metadata schema <https://datacite-metadata-schema.readthedocs.io/en/4.5/mappings/pidinst/>`_ is not complete. The PIDINST Working Group thus gives further `advice <https://docs.pidinst.org/en/latest/datacite-cookbook/metadata.html>`_ on how to represent their metadata schema best within DataCite’s schema. This includes recommendations on (sometimes mandatory) DataCite properties where it is hard to see how they apply to instruments.
 
 In addition to the implementation with well-known PID providers, whose platforms are widely used, and for which mappings to other metadata schemas exist, interoperability is promoted by the PIDINST Working Group’s `recommendation <https://docs.pidinst.org/en/latest/white-paper/metadata-schema-recommendations.html#using-common-terminologies>`_ to use established, common terminologies within the PIDINST metadata schema. Standardized terms and classifications improve the consistency and understandability of metadata across different platforms. However, it should also be noted that there is currently no general ontology for key metadata fields such as instrument type or measured variables that extends beyond individual subdomains.
+
+Cross-linking Instruments with other Research Ouputs
+----------------------------------------------------
+
 
 Do any FAQs exist?
 -------------------
