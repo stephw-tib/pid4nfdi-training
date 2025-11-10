@@ -35,7 +35,7 @@ If you are an infrastructure manager and you would like to set up infrastructure
 
 If the prefix registration service does not fit your needs, you can proceed as follows:
 
-- **Find a Service Provider and Register as a Client**: Identify an organization within the ePIC Consortium that offers PID (Persistent Identifier) services. Many are universities, research institutions, data centers, or National Research & Education Networks (NREN). Contact the provider to register and set up access to their PID services. The client will usually be provided with a dedicated namespace/prefix. The prefix is allocated in the top level namespace 21. Based on the policy of ePIC the Client will get access to the APIs for the management of PID and their metadata.
+- **Find a Service Provider and Register as a Client**: Identify a partner within the ePIC Consortium that offers PID (Persistent Identifier) services. Many are universities, research institutions, data centers, or National Research & Education Networks (NREN). Contact the provider to register and set up access to their PID services. The client will usually be provided with a dedicated namespace/prefix. The prefix is allocated in the top level namespace 21. Based on the policy of ePIC the Client will get access to the APIs for the management of PID and their metadata. The costs for the PID service can slightly differ from partner to partner in the ePIC consortium. The GWDG's cost model can be found `here <https://docs.gwdg.de/doku.php?id=en:services:application_services:pid:start>`_.
 
 .. - **Obtain, Use and Manage Identifiers**: Submit the necessary metadata for the resource you want to identify. The specific requirements will depend on the infrastructure and the type of resource. Once your metadata is submitted, the infrastructure will issue a unique ePIC identifier.Integrate the ePIC into your workflows for citation, sharing, and resource management. Updates or additional metadata can often be added as needed.
 
@@ -43,7 +43,7 @@ If the prefix registration service does not fit your needs, you can proceed as f
 For more detailed guidance
 ---------------
 
-* Explore the ePIC Consortium website (https://www.pidconsortium.net/) for additional information and a list of participating providers..
+* Explore the ePIC Consortium website (https://www.pidconsortium.net/) for additional information and a list of participating providers.
 
 * Start with the `FAQ section <https://www.pidconsortium.net/?page_id=1060>`_.
 
