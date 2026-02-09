@@ -22,11 +22,13 @@ When should you use Wikidata IDs?
 ---------------------------------
 
 Use Wikidata IDs when:
+
 * You need a shared, community-maintained identifier for a concept or entity
 * You want to link across multiple identifier systems
 * You work with semantic web or knowledge graph technologies
 
 Do not rely on Wikidata IDs when:
+
 * You need contractual persistence guarantees
 * You need to cite or register research outputs
 * Governance, versioning, or provenance must be institutionally controlled
