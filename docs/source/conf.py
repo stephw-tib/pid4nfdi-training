@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'PID4NFDI Cookbook'
-copyright = '2025, PID4NFDI'
+copyright = '2025-2026, PID4NFDI'
 author = 'PID4NFDI'
 
 release = '0.1'
