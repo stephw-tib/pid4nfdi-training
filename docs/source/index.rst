@@ -51,6 +51,7 @@ Contents
    orcid
    pida
    pidinst
+   raid
    ror
    wikidata
 
