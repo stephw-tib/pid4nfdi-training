@@ -58,5 +58,6 @@ Additional Resources & FAQs
 ----
 
 Creator: Stephanie Hagemann-Wilholt (https://orcid.org/0000-0002-0474-2410)
+
 Reviewer: Paul Vierkant (https://orcid.org/0000-0003-4448-3844), Rorie Edmunds 
 
