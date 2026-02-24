@@ -23,7 +23,7 @@ The `Digital Object Identifier (DOI) <https://pid4nfdi-training.readthedocs.io/e
 
 What is the difference between a RAiD and a DataCite DOI?
 ----------------------------------------------------------
- RAiD is a standard specifically designed to uniquely identify research activities, and to collaboratively collect and publicly share information about them. Its metadata schema is tailored to capture the lifecycle of a project, offering a version history to display changes of (for example) a project’s contributors, funding, outputs, or relations to other projects. In contrast, DataCite DOIs cover a broader scope of potential research activities and outputs with more general metadata requirements.
+RAiD is a standard specifically designed to uniquely identify research activities, and to collaboratively collect and publicly share information about them. Its metadata schema is tailored to capture the lifecycle of a project, offering a version history to display changes of (for example) a project’s contributors, funding, outputs, or relations to other projects. In contrast, DataCite DOIs cover a broader scope of potential research activities and outputs with more general metadata requirements.
 
 What is the difference between a RAiD and a grant or award PID?
 ----------------------------------------------------------------
