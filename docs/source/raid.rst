@@ -55,5 +55,8 @@ Additional Resources & FAQs
   * `DataCite on RAiDs <https://support.datacite.org/docs/raids>`_, including `FAQs <https://support.datacite.org/docs/raid-faq>`_
   * RAiD `API usage <https://documentation.ardc.edu.au/raid/using-the-raid-api>`_
 
+----
 
+Creator: Stephanie Hagemann-Wilholt (https://orcid.org/0000-0002-0474-2410)
+Reviewer: Paul Vierkant (https://orcid.org/0000-0003-4448-3844), Rorie Edmunds 
 
