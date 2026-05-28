@@ -45,6 +45,7 @@ Contents
    ark
    doi
    epic
+   eupid
    factgrid
    gnd
    igsn
