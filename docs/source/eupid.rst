@@ -113,3 +113,6 @@ The usage of the EUPID Services is license based and depends on the specific use
 .. [#primage] https://www.primageproject.eu/
 .. [#ejprd] https://www.ejprarediseases.org/
 .. [#erdera] https://erdera.org/
+
+----
+Creators: Torsten Kahlert (https://orcid.org/0009-0003-3264-5006), Emanuel Sandner (https://orcid.org/0009-0008-6761-8696)
