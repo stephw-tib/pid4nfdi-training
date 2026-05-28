@@ -21,11 +21,11 @@ A general checklist on choosing a PID system
 
 Support for PID Selection
 -----------------------------
+PID4NFDI provides the `PID Selection Tool <https://pid.services.base4nfdi.de/pidtool/>`_ to support repository and service managers in finding an appropriate PID service for their purposes. Currently, the tool covers four object-related PID services – DataCite DOI, ePIC Handles (GWDG), URN:NBN, and ARK, and guides you through 12 short statements divided into four thematic sections: Persistence and Costs, Purpose, Metadata & Interoperability, and Technical Setup and Training. 
+
 The PID Guide (`pidwijzer <https://www.pidwijzer.nl/>`_), developed by the Dutch Digital Heritage Network, helps organizations and projects choose the right Persistent Identifier (PID). It offers 25 questions across 5 themes to assess PID needs, with answers rated on a scale from “strongly agree” to “strongly disagree.” Based on responses, a list of recommended PIDs is provided.
 
 Additionally, the `PID Guide Toolkit <https://www.pidwijzer.nl/en/pid-guide-methodology>`_ is available under a CC0 license for customization. Users can add PIDs (e.g., ePIC) or adjust the scoring to better fit their requirements. The toolkit includes an HTML page (with JavaScript and CSS) and an English manual.
-
-A PID Selection Guide tailored for the NFDI (National Research Data Infrastructure) is planned for the PID4NFDI integration phase (January 2025-December 2026).
 
 ----
 
